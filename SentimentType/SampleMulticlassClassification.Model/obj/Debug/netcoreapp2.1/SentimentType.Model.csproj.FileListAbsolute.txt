@@ -1,0 +1,10 @@
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SentimentType.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SentimentType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SentimentType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SentimentType.Model.csproj.CoreCompileInputs.cache

@@ -1,0 +1,65 @@
+ID	Statement	GreetingType
+2116255793	hey, whats up?	DisjunctiveGreeting
+1896681537	hey there, sup?	DisjunctiveGreeting
+1904585956	hello, what is up?	DisjunctiveGreeting
+259507284	hey, whats going on?	DisjunctiveGreeting
+1291230613	hey how are you?	DisjunctiveGreeting
+395109728	hello whats goin on?	DisjunctiveGreeting
+2051615937	yo whats happening?	DisjunctiveGreeting
+1920704058	hey man what are you up to?	DisjunctiveGreeting
+2106322949	hey dude what are you doing?	DisjunctiveGreeting
+174639067	hey, what is happening dude?	DisjunctiveGreeting
+1659941635	hey, hows it going bro?	DisjunctiveGreeting
+2040077175	hi there, how are you sweety?	DisjunctiveGreeting
+2115772551	hi, how are you baby?	DisjunctiveGreeting
+875693703	hey, how are you babe?	DisjunctiveGreeting
+185867058	yo, how is it going?	DisjunctiveGreeting
+1738029345	hey hey, hows it going?	DisjunctiveGreeting
+652308487	hey baby, you doing anything interesting?	DisjunctiveGreeting
+453234589	im ok, how are you?	NotBadGreeting
+343234589	im pretty good, you?	NotBadGreeting
+453234589	im not bad, and how are you?	NotBadGreeting
+463234589	not to bad, how are you?	NotBadGreeting
+453234679	im bored, how are you?	NotBadGreeting
+453278589	pretty ok, lol, how are you?	NotBadGreeting
+453245609	im so hungover, how are you feeling?	NotBadGreeting
+4536774589	im having a good time, how are you?	NotBadGreeting
+4532340589	i feel like shit, you?	NotBadGreeting
+453234589	im getting ready for work, how about you?	NotBadGreeting
+089234566	not to much myself, how about you?	NotMuchGreeting
+234634566	not a lot, hbu?	NotMuchGreeting
+120934566	not a hell of alot, how about you?	NotMuchGreeting
+0324534566	pretty bored, you?	NotMuchGreeting
+870192834	omg nothing, what are you doing?	NotMuchGreeting
+0912834398	nm hbu?	NotMuchGreeting
+887654321	fuck all, you?	NotMuchGreeting
+239860855	whats up?	GeneralQuestionGreeting
+149636482	sup?	GeneralQuestionGreeting
+1739594642	what is up?	GeneralQuestionGreeting
+407112596	whats going on?	GeneralQuestionGreeting
+1835075650	how are you?	GeneralQuestionGreeting
+829295293	whats goin on?	GeneralQuestionGreeting
+962417472	whats happening?	GeneralQuestionGreeting
+749180431	what are you up to?	GeneralQuestionGreeting
+1852870161	what are you doing?	GeneralQuestionGreeting
+1102208836	what is happening dude?	GeneralQuestionGreeting
+1399382396	hows it going bro?	GeneralQuestionGreeting
+504839021	how are you sweety?	GeneralQuestionGreeting
+371570792	how are you baby?	GeneralQuestionGreeting
+1404921619	how are you babe?	GeneralQuestionGreeting
+1306212829	how is it going?	GeneralQuestionGreeting
+1815551738	hows it going?	GeneralQuestionGreeting
+1133677312	you doing anything interesting?	GeneralQuestionGreeting
+771811788	yo	StatementGreeting
+1230148161	hey	StatementGreeting
+1173820485	Hey	StatementGreeting
+781148072	Yo	StatementGreeting
+492591204	Hello	StatementGreeting
+1316985299	Hello there	StatementGreeting
+699325208	hey there	StatementGreeting
+2125920502	Hey there	StatementGreeting
+624611950	good afternoon	StatementGreeting
+1350823015	good morning	StatementGreeting
+267863476	good evening	StatementGreeting
+694111554	good day	StatementGreeting
+1729926779	salutations	StatementGreeting

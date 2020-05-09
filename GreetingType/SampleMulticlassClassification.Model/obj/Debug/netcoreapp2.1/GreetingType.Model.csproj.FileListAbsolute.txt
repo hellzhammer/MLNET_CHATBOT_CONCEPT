@@ -1,0 +1,9 @@
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/GreetingType.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/GreetingType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/GreetingType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/GreetingType.Model.csproj.CoreCompileInputs.cache

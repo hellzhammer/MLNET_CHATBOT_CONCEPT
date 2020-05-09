@@ -1,0 +1,10 @@
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/DisjunctiveGreetingType.Model.csproj.CoreCompileInputs.cache

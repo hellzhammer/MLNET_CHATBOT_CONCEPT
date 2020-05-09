@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\TestApp\PerleyMLMQTTlib\PerleyMLMQTTlib.csproj" />
+    <ProjectReference Include="..\QuestionOrStatement\SampleBinaryClassification.Model\QuestionStatement.Model.csproj" />
+    <ProjectReference Include="..\QuestionType\SampleMulticlassClassification.Model\QuestionType.Model.csproj" />
+    <ProjectReference Include="..\SentenceType\SampleMulticlassClassification.Model\SentenceType.Model.csproj" />
+    <ProjectReference Include="..\SentimentType\SampleMulticlassClassification.Model\SentimentType.Model.csproj" />
+    <ProjectReference Include="..\GreetingOrStatement\SampleBinaryClassification.Model\GreetingStatement.Model.csproj" />
+    <ProjectReference Include="..\GreetingType\SampleMulticlassClassification.Model\GreetingType.Model.csproj" />
+    <ProjectReference Include="..\GeneralGreetingType\SampleMulticlassClassification.Model\GeneralGreetingType.Model.csproj" />
+    <ProjectReference Include="..\DisjunctiveGreetingType\SampleMulticlassClassification.Model\DisjunctiveGreetingType.Model.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="QuestionStatementLogic\" />
+    <Folder Include="QuestionTypeLogic\" />
+    <Folder Include="SentenceTypeLogic\" />
+    <Folder Include="SentimentTypeLogic\" />
+    <Folder Include="Data\" />
+    <Folder Include="Greeting\" />
+    <Folder Include="Greeting\GreetingOrStatement\" />
+    <Folder Include="Greeting\GreetingType\" />
+    <Folder Include="Greeting\GeneralGreetingType\" />
+    <Folder Include="Greeting\DisjuctiveGreetingType\" />
+    <Folder Include="MessageEngine\" />
+    <Folder Include="data\neuralnetdata\" />
+    <Folder Include="data\predictionenginedata\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MathNet.Numerics" Version="4.9.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="NeuralNetLogic.cs" />
+  </ItemGroup>
+</Project>

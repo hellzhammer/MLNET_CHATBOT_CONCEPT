@@ -1,0 +1,256 @@
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: multiclass-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              MicroAccuracy  MacroAccuracy  Duration #Iteration                     |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=SentimentType:SentimentType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 1	0.700186504110471	00:00:05.7916392	xf=ValueToKeyMapping{ col=SentimentType:SentimentType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|1    AveragedPerceptronOva                       0.7049         0.6051       5.8          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=SentimentType:SentimentType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 2	0.719217785007793	00:00:25.1214055	xf=ValueToKeyMapping{ col=SentimentType:SentimentType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|2    SdcaMaximumEntropyMulti                     0.7206         0.7066      25.1          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=SentimentType:SentimentType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: multiclass-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              MicroAccuracy  MacroAccuracy  Duration #Iteration                     |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 1	0.734484126984127	00:00:03.9058843	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|1    AveragedPerceptronOva                       0.7143         0.7500       3.9          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 2	0.725753968253968	00:00:07.8366889	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|2    SdcaMaximumEntropyMulti                     0.6667         0.8333       7.8          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: multiclass-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              MicroAccuracy  MacroAccuracy  Duration #Iteration                     |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 1	0.75531746031746	00:00:02.7159192	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|1    AveragedPerceptronOva                       0.7500         0.6667       2.7          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: multiclass-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              MicroAccuracy  MacroAccuracy  Duration #Iteration                     |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 1	0.715873015873016	00:00:02.9152127	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|1    AveragedPerceptronOva                       0.7143         0.7500       2.9          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 2	0.725753968253968	00:00:06.7035037	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|2    SdcaMaximumEntropyMulti                     0.6667         0.8333       6.7          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+[Source=AutoML, Kind=Trace] 3	0.734920634920635	00:00:03.1497156	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+|3    LightGbmMulti                               0.8000         0.5000       3.1          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 4	NaN	00:00:00.2682509	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|4    SymbolicSgdLogisticRegressionOva               NaN            NaN       0.3          0                     |
+System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.TrainOne(IChannel ch, ITrainerEstimator`2 trainer, RoleMappedData data, Int32 cls)
+   at Microsoft.ML.Trainers.OneVersusAllTrainer.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=FastTreeOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 5	0.573253968253968	00:00:08.8326748	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=FastTreeOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|5    FastTreeOva                                 0.5714         0.5417       8.8          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LinearSvmOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 6	0.669365079365079	00:00:01.0238865	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LinearSvmOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|6    LinearSvmOva                                0.6667         0.5833       1.0          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LbfgsLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 7	0.694880952380952	00:00:01.3689672	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LbfgsLogisticRegressionOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|7    LbfgsLogisticRegressionOva                  0.6667         0.5833       1.4          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 8	0.736865079365079	00:00:02.1259445	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|8    SgdCalibratedOva                            0.8000         0.5000       2.1          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=FastForestOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 9	0.394126984126984	00:00:06.6164508	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=FastForestOva{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|9    FastForestOva                               0.3333         0.2500       6.6          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LbfgsMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 10	0.673769841269841	00:00:00.9121997	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=LbfgsMaximumEntropyMulti{} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|10   LbfgsMaximumEntropyMulti                    0.6667         0.5833       0.9          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0.01} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 11	0.705753968253968	00:01:18.7256303	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0.01} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|11   SdcaMaximumEntropyMulti                     0.6667         0.8333      78.7          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{NumberOfIterations:150, LearningRate:0.0443478, NumberOfLeaves:5, MinimumExampleCountPerLeaf:1, UseCategoricalSplit:False, HandleMissingValue:True, MinimumExampleCountPerGroup:100, MaximumCategoricalSplitPointCount:16, CategoricalSmoothing:1, L2CategoricalRegularization:5, L2Regularization:1, L1Regularization:0.5, UseSoftmax:True} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+[Source=AutoML, Kind=Trace] 12	0.701706349206349	00:00:04.2188773	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{NumberOfIterations:150, LearningRate:0.0443478, NumberOfLeaves:5, MinimumExampleCountPerLeaf:1, UseCategoricalSplit:False, HandleMissingValue:True, MinimumExampleCountPerGroup:100, MaximumCategoricalSplitPointCount:16, CategoricalSmoothing:1, L2CategoricalRegularization:5, L2Regularization:1, L1Regularization:0.5, UseSoftmax:True} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+|12   LightGbmMulti                               0.7143         0.7500       4.2          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedOva{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:True} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 13	0.736865079365079	00:00:01.4454378	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedOva{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:True} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|13   SgdCalibratedOva                            0.8000         0.5000       1.4          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{L2Regularization:0.0001, L1Regularization:<Auto>, ConvergenceTolerance:0.01, MaximumNumberOfIterations:100, Shuffle:False, BiasLearningRate:0} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+[Source=AutoML, Kind=Trace] 14	0.738253968253968	00:00:01.1880996	xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} xf=Normalizing{ col=Features:Features} tr=SdcaMaximumEntropyMulti{L2Regularization:0.0001, L1Regularization:<Auto>, ConvergenceTolerance:0.01, MaximumNumberOfIterations:100, Shuffle:False, BiasLearningRate:0} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=+
+|14   SdcaMaximumEntropyMulti                     0.7500         0.7222       1.2          0                     |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=ValueToKeyMapping{ col=sentenceType:sentenceType} xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnConcatenating{ col=Features:Statement_tf,ID} tr=LightGbmMulti{NumberOfIterations:150, LearningRate:0.08133443, NumberOfLeaves:2, MinimumExampleCountPerLeaf:50, UseCategoricalSplit:True, HandleMissingValue:True, MinimumExampleCountPerGroup:200, MaximumCategoricalSplitPointCount:64, CategoricalSmoothing:1, L2CategoricalRegularization:0.1, L2Regularization:0, L1Regularization:0, UseSoftmax:False} xf=KeyToValueMapping{ col=PredictedLabel:PredictedLabel} cache=-
+
+===============================================Experiment Results=================================================
+------------------------------------------------------------------------------------------------------------------
+|                                                     Summary                                                    |
+------------------------------------------------------------------------------------------------------------------
+|ML Task: multiclass-classification                                                                              |
+|Dataset: statementdata.tsv                                                                                      |
+|Label : sentenceType                                                                                            |
+|Total experiment time : 120.69 Secs                                                                             |
+|Total number of models explored: 14                                                                             |
+------------------------------------------------------------------------------------------------------------------
+|                                              Top 5 models explored                                             |
+------------------------------------------------------------------------------------------------------------------
+|     Trainer                              MicroAccuracy  MacroAccuracy  Duration #Iteration                     |
+|1    LightGbmMulti                               0.8000         0.5000       3.1          3                     |
+|2    SgdCalibratedOva                            0.8000         0.5000       2.1          7                     |
+|3    SgdCalibratedOva                            0.8000         0.5000       1.4         12                     |
+|4    SdcaMaximumEntropyMulti                     0.7500         0.7222       1.2         13                     |
+|5    AveragedPerceptronOva                       0.7143         0.7500       2.9          1                     |
+------------------------------------------------------------------------------------------------------------------
+Generated trained model for consumption: /home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/MLModel.zip
+Retrieving best pipeline ...
+Generated C# code for model consumption: /home/matt/SampleMulticlassClassification/SampleMulticlassClassification.ConsoleApp
+Check out log file for more information: /home/matt/SampleMulticlassClassification/logs/debug_log.txt

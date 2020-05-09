@@ -1,0 +1,14 @@
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.deps.json
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.runtimeconfig.json
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.runtimeconfig.dev.json
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.pdb
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.csproj.CopyComplete
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.ConsoleApp/obj/Debug/netcoreapp2.1/SampleBinaryClassification.ConsoleApp.pdb

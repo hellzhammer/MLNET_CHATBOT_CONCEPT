@@ -1,0 +1,3253 @@
+{
+  "participants": [
+    {
+      "name": "Cody Dafoe"
+    },
+    {
+      "name": "Matthew Perley"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576453436212,
+      "content": "Whats good buddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576438965469,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/80619997_2558601420875135_634152960636485632_n_466619327569201.jpg",
+          "creation_timestamp": 1576438965
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576438962804,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/79674105_2443051602675601_7322096620298829824_n_446987709295977.jpg",
+          "creation_timestamp": 1576438962
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576438960675,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/78304216_530311064225374_1733278780090220544_n_451461709135231.jpg",
+          "creation_timestamp": 1576438960
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576438955012,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576184408977,
+      "content": "Monsouir",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576170921978,
+      "content": "What u up to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576170361963,
+      "content": "Its a beautiful thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576170346415,
+      "content": "Andrew sheer just resigned as conservative leader",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576170341814,
+      "content": "The creators working today",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576170266394,
+      "content": "sup  manski?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576170224423,
+      "content": "PERLEY",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576081777090,
+      "content": "Lmao no doubt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576080042111,
+      "content": "lmfao was comatosed zS",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576034164916,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/joeOTFroberts/posts/10156753459001218"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576026385013,
+      "content": "Was there enough there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576014340705,
+      "content": "Lmao ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576014080145,
+      "content": "well i guess ill put some pants on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576012913194,
+      "content": "When ever",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576012750869,
+      "content": "whens good to head up? i just finished eating.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576011133173,
+      "content": "Lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576011029569,
+      "content": "naw economical xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576011018005,
+      "content": "Lo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576011015387,
+      "content": "Kentorha lol lazy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576011014095,
+      "content": "why make laundry right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576011003586,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576010996243,
+      "content": "oh lmfao yaa im not typically wearing clothes when im at home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576010972479,
+      "content": "Yesterday U said on my way after I find my pants lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576010850282,
+      "content": "or did someone find my pants i lost 2 years ago drunk pool hopping?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576010834714,
+      "content": "sweet thank you, and what do you mean? like she wears the pants?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576010568225,
+      "content": "U musta lost ur pants again lnfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1576008787255,
+      "content": "I can prob do that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1576008398592,
+      "content": "yo my multigrain cracker, would you mind if i bummed a nug? todays been a cluster. kayla was here when i got home xD. lmfao that went about as well as it could have.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575959865854,
+      "content": "Cool cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575959728699,
+      "content": "ill listen to that when i go to bed tonight.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958769508,
+      "content": "Lay down head phone in lights off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958747057,
+      "content": "Thats what I was talkings about",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958726991,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.youtube.com/watch?v=WqrBfyCQ0lQ"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958397994,
+      "content": "I support u eather way",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958389426,
+      "content": "Or take a break",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575958115090,
+      "content": "naw youve helped me out alot man. i really appreciate it. in a way this is the universe telling me its time. lol. ive wanted to quit a number of things, 2 weeks to steady money is a good way to quit xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575958114569,
+      "content": "U left an I was like fuck did I give him to go lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575957996923,
+      "content": "Still boo lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575957844786,
+      "content": "Ur just stoned lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575957817516,
+      "content": "Damn thought it did",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575957815827,
+      "content": "all good though thank you. im actually tired now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575957803741,
+      "content": "no lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575957766522,
+      "content": "Did I give u any to take with u ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575957747993,
+      "content": "lol making kd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575957713776,
+      "content": "Its alive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943431594,
+      "content": "Lomao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575943242011,
+      "content": "lmfao im inside to and my window faces downtown lol i wouldnt see it regardless",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943165306,
+      "content": "Good think I didnt send u a smoke signal ya wouldnt have gotten it lnfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943144270,
+      "content": "Jeepers lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943129867,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575943120853,
+      "content": "lmfao fair enough. ill go find some pants.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943094634,
+      "content": "If u cant figure that one out I guess it in worst shape then me bahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943066311,
+      "content": "Well Im bout to go toke lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575943051358,
+      "content": "for what?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575943037866,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942765839,
+      "content": "I guess its see u in 20 mins then lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942686098,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942677471,
+      "content": "lol i can smell the picture xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942657237,
+      "content": "Smells nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942597602,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942474719,
+      "content": "Oh ya man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942437957,
+      "content": "that looks pretty nice to.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942414646,
+      "content": "Crit mass",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942410414,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/78257911_566394530597036_4970254648783929344_n_566394510597038.jpg",
+          "creation_timestamp": 1575942409
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942377387,
+      "content": "ncie",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942358816,
+      "content": "Thats the widow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942350700,
+      "content": "lol fair. and that looks pretty nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942326407,
+      "content": "Nah Id just ID or OD it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942308217,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/79312287_556684464880317_775006902735077376_n_556684448213652.jpg",
+          "creation_timestamp": 1575942307
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942301798,
+      "content": "should get some hydroponic stuff set up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942288965,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942280492,
+      "content": "I know right lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942241912,
+      "content": "thats not bad either",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942230086,
+      "content": "Got like 5 seeds lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942213444,
+      "content": "excess crystal andeverything",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942207502,
+      "content": "thats where all the good shit winds up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942199342,
+      "content": "Still bam lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942192605,
+      "content": "But its bottom of the bag what I was getting at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942183286,
+      "content": "Same",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942173260,
+      "content": "lol regardless of cost it got me pretty stoned xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942156338,
+      "content": "That was some of my 20$ bottom of the bag qt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942144308,
+      "content": "like on par or better than don and jans",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942137053,
+      "content": "literally everything ive gotten off you have been good lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942116598,
+      "content": "How did u like that stuff I gave you last",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942108976,
+      "content": "Smells nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942102151,
+      "content": "Idk not sure yet lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942094141,
+      "content": "and nice good stuff?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942087603,
+      "content": "i bought a bag of cigs off my roomie so i dont run out. but thats it until my new job pays me.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942053434,
+      "content": "I got some white widow an crit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942045877,
+      "content": "youre telling me xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575942039835,
+      "content": "Boo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575942019958,
+      "content": "oh fuck my bad. im still a broke ass. i cant afford pot for a couple weeks.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575941981956,
+      "content": "Just picked up was waiting for u to get back to me lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575941956662,
+      "content": "not alot switched over laundry. coding atm. lol you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575939614184,
+      "content": "Whats up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575922119290,
+      "content": "Just a feeling",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575922011484,
+      "content": "what makes you say that?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575922001667,
+      "content": "the majority of the college kids are indian now. the majority of which do not drink. so unfortunately when i go to little texas now its all old people in their 40s and young people without an education, or have been in jail x number of times.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921977265,
+      "content": "I think were gonna have a nice ice storm year",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921934416,
+      "content": "Ok",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921932835,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921742167,
+      "content": "not really the losers at loyola and shit are what you find at the bar xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921726028,
+      "content": "now she goes to work and he stays home making beats xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921724922,
+      "content": "Still better then a bar lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921708724,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921703014,
+      "content": "she found him in adult high school xD.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921685923,
+      "content": "Prob y she dated him to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921680571,
+      "content": "yeup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921676569,
+      "content": "Oh god",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921675525,
+      "content": "not well either.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921670694,
+      "content": "aliees boyfriend mike raps.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921661388,
+      "content": "Rap?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921653395,
+      "content": "and they dont even rap",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921653319,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575921646175,
+      "content": "honestly i hate all of kaylas exs. more useless than avas step dad.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575921615792,
+      "content": "Dad wont play mind craft wtf lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575920122587,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575920052171,
+      "content": "right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575920049077,
+      "content": "Fair enough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575920048655,
+      "content": "hes a little butt hurt me and her broke up. his dad wont even play minecraft with him.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575920026498,
+      "content": "Bahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575920020968,
+      "content": "now landon just says fair enough in response to her xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575920011427,
+      "content": "lmfao, kaylas pissed, landon picked up my phrase fair enough and she hates when i say it for some reason",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575919980718,
+      "content": "Lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575919969106,
+      "content": "Well Atlest mines outta ur hands lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575919965972,
+      "content": "to be fair i did kill a spider yesterday that freaked me out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575919944240,
+      "content": "The rain",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575919940476,
+      "content": "Lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575919917445,
+      "content": "what are you blaming me for?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575919908638,
+      "content": "lmfao thats what kayla just told me xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575919898818,
+      "content": "Its your fault",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575867970684,
+      "content": "https://www.google.ca/amp/s/www.rt.com/news/475345-nato-russia-degrading-security-shoigu/amp/",
+      "share": {
+        "link": "https://www.rt.com/news/475345-nato-russia-degrading-security-shoigu/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833723180,
+      "content": "https://www.google.ca/amp/s/www.proprofs.com/quiz-school/storyamp.php%3ftitle=mte2mdawoq2srl\n\nThere ya go nerd lol",
+      "share": {
+        "link": "https://www.proprofs.com/quiz-school/story.php?title=mte2mdawoq2srl"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833710141,
+      "content": "Tell her to calm down an figure out what house she is lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833681816,
+      "content": "They just take it as proof that u are doing what they believe u r lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833663083,
+      "content": "Never does lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833656174,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833642997,
+      "content": "didnt help xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833638583,
+      "content": "lmao i told her that tbh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833620839,
+      "content": "I can give you something to accuse me off if your really looking lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833595805,
+      "content": "Id get mad lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833588234,
+      "content": "right? so annoying.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833581300,
+      "content": "It triggers me",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833576464,
+      "content": "Ive been accused of shit I havent done my entire life lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833553185,
+      "content": "No one likes being accused of shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833535504,
+      "content": "the hoe thing is really all that drove me off. i really like her.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833533495,
+      "content": "Still met her there lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833507718,
+      "content": "i hate it. its just the easiest way to catch up with people, everyone seems to wind up at texas at some point or another. and lmfao no. kayla was a weird one. i met her there but we became friends doing other shit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833500558,
+      "content": "Just an empty wallet lol an heart ache down the road lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833475878,
+      "content": "Ya aint good find good wifey material at the bar lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833438896,
+      "content": "I was never that big on the bar scene lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833415574,
+      "content": "Lol cool",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833399026,
+      "content": "lmfao, im friends with the bouncers xD. i did some work for some bikers a couple years ago when the cabaret was still around, the bouncers at texas are all bikers atm. its lead to some nice perks xD.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833298818,
+      "content": "Or stay home lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575833286512,
+      "content": "I guess some ones telling you to stop drinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575833245547,
+      "content": "i hear that. i just like drinking on the weekends. but thats hard now as kayla is at the only bar in town people our age go every friday and saturday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832918030,
+      "content": "Just imagine anytime u went to pick up weed theres a chance you will never be heard from again lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832882876,
+      "content": "Much safer to drink down there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832857109,
+      "content": "Unless your in Guyana lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832849239,
+      "content": "Id rather toke then drink",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832826657,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832820794,
+      "content": "yaa thats before i started drinking heavily xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832786424,
+      "content": "Or 2012",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832770671,
+      "content": "09 I think",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832760784,
+      "content": "Ya",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832526244,
+      "content": "makes sense. yaa you stopped drinking ages ago. i dont think weve ever even had a beer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832499907,
+      "content": "She was a drinker then, \nI was more into ceremony then drinking lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832496603,
+      "content": "lmfao fair",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832491767,
+      "content": "i keep telling her hes going to hurt her and her kids. but nope im the peice of shit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832479886,
+      "content": "Lol she was nice but not nice enough lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832474262,
+      "content": "the guy kayla got with after i dumped her is some alcoholic loser.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832461825,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832458639,
+      "content": "i hate some dudes/",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832447827,
+      "content": "lol would been the safer option",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832262358,
+      "content": "Her mom was trying to set us up long time ago lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575832235386,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575832218435,
+      "content": "shit eh. thats fucked.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831884321,
+      "content": "Cause she had a heart attack while they were in her head",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831873750,
+      "content": "They were operating an had to stop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831862394,
+      "content": "He beat the fu k right outta her",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575831836930,
+      "content": "thats fucked up. those are the guys kayals attracted to to. i dont get what draws them in.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831502914,
+      "content": "A friend of mine her old man beat her up pretty good shes in the hospital all fucked up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831476631,
+      "content": "I wanna smack some one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831468628,
+      "content": "Jeez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831466150,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575831430612,
+      "content": "lol yaa. you know whats funny though? shes unknowingly going to be the first person to talk to ai matt xD. im rigging up an app to watch for her messages and respond.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575831361317,
+      "content": "Yup well specially when she always blaming ya for it lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575831080112,
+      "content": "meh what could i do really? wasnt fair. cool chick but just not the right time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575830217580,
+      "content": "Ya I couldnt see u staying in that much longer",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575830207229,
+      "content": "Normally how it goes eh.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575830194310,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575827532093,
+      "content": "oh not a hell of alot the new gf thing just left. broke up with kayla because you know. im a hoe.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575822559383,
+      "content": "Wuts good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575771224735,
+      "content": "Having fun lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575664505836,
+      "content": "Run away",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575645672208,
+      "content": "Youvwoshed for this didnt u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575596205059,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/ThatSavageShyt/posts/965787313783964"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575573772462,
+      "content": "Did u get your medicine",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575573746495,
+      "content": "Yo",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575503114912,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/78893953_433679247514975_427045557404434432_n_1435403459999537.jpg",
+          "creation_timestamp": 1575503114
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575501368417,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/78414260_437093103855933_5091716173590953984_n_437093090522601.jpg",
+          "creation_timestamp": 1575501367
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575501307745,
+      "content": "Make dough then fry it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575501273078,
+      "content": "lmfao i was going to say is that pot dough",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575501261066,
+      "content": "Mmm indian fry bread",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575501257262,
+      "photos": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/photos/78730678_477153256257718_6206197317171675136_n_1224367831085156.jpg",
+          "creation_timestamp": 1575501256
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575487597274,
+      "content": "Hows work",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575477612403,
+      "content": "I was just thinking hopefully that fox \u00f0\u009f\u00a6\u008a wasnt telling your theyre could be a kit coming lmfao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575477569059,
+      "content": "Remember the fox",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575430554933,
+      "content": "It happens lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575430057324,
+      "content": "alright omw. again sorry about that.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575429702417,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575429680560,
+      "content": "i think its almost over sorry.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575429673195,
+      "content": "no shes just going on",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575429661198,
+      "content": "Ah ok thought ur were at the girlys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575429275853,
+      "content": "home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575429268455,
+      "content": "Lol where u at",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575429249879,
+      "content": "thank you man, and yaa sorry kaylas talking about something im not entirely sure what though",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575429158981,
+      "content": "If your still alive lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575428965531,
+      "content": "Ya I can do that.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575427410077,
+      "content": "would you mind if i bummed a couple smokes off you? i dont get paid for a bit and i ran out earlier.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575427371463,
+      "content": "lmfao start of the apocalypse is trench",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575427091755,
+      "content": "Thats shits actually scary lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575426526376,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426522842,
+      "content": "wouldnt doubt that actually xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575426508318,
+      "content": "Theres probably bath salt zombies there",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426500681,
+      "content": "but hey moneys money.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426495618,
+      "content": "trenchtown sucked ass xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426489235,
+      "content": "xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575426484627,
+      "content": "Lmao see",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426480022,
+      "content": "lmao no it wasnt xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575426469841,
+      "content": "Ah still not a good enough excuse lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1575426445144,
+      "content": "lol was there to talk about coding something potentially.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575410234334,
+      "content": "What the hell u go to Trenton for lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575335527319,
+      "content": "Isnt that fucked ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575256243409,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/groups/million.natives/permalink/10157271051644702/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575231104417,
+      "content": "U asked for this weather didnt u",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575121680697,
+      "content": "Cody sent a link.",
+      "share": {
+        "link": "https://www.foxnews.com/science/a-new-supervolcano-is-brewing-under-massachusetts-vermont-and-new-hampshire"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1575037572797,
+      "content": "Its alive... kinda",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574994506649,
+      "content": "Sup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574985953488,
+      "content": "Wut you saying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574978379994,
+      "content": "I just got home from needles in the back",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574978323768,
+      "content": "Dying",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574974615468,
+      "content": "yo what are you up to?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574898651412,
+      "content": "Having fun lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574874098259,
+      "content": "An army of 1000s of your relatives thats stand behind you to support you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574874070301,
+      "content": "The ancestors are always here.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574874055665,
+      "content": "Ya man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574873991428,
+      "content": "thats pretty sweet actually.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574873918631,
+      "content": "Cody sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798364420,
+      "content": "Okwari bear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574798355318,
+      "content": "right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798342188,
+      "content": "Poor bear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574798310237,
+      "content": "im heading out in a couple mins though and lmfao i saw that",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798300767,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/brylogic/videos/770708953139197/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798293535,
+      "content": "Lol all good lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574798165169,
+      "content": "lmfao sorry i was talking to the woman xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798110203,
+      "content": "You take as long as a woman bahahahaha",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574798097472,
+      "content": "Hoooolay",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574795297432,
+      "content": "Ok sounds good take your time lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574795267546,
+      "content": "im just saving some shit and im gonna shower and head uop",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574795209603,
+      "content": "Understandable man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574795065069,
+      "content": "ive been doing alot of job hopping lately so moneys a bit tight",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574795051726,
+      "content": "if i have some cash ill let you know though.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794957546,
+      "content": "Ok. Just thought Id pass that along",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574794922655,
+      "content": "sounds good, i need to get paid before i can afford ganj right now. first pay should be tomorrow from vantage i think. or friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794483667,
+      "content": "An Ill prob be going to get medicine between today an fri",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794461247,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574794457274,
+      "content": "lmfao right?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794451496,
+      "content": "Atlest ur not stuck at vantage.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574794448014,
+      "content": "pays 17/hr and im in my underwear",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794435473,
+      "content": "Nice",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574794431025,
+      "content": "im a digital assistant now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574794417469,
+      "content": "thanks dude, and i got a job online just doing some dudes schedule and shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794399060,
+      "content": "Oh I guess I can do that lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574794389895,
+      "content": "U quit vantage already ? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574793717062,
+      "content": "can i buy a couple smokes off you in a bit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574793707420,
+      "content": "got a online job xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574793702111,
+      "content": "already been lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574787735147,
+      "content": "Get to work :-p",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574536887077,
+      "content": "You made it to the weekend lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574480353205,
+      "content": "Runnnnnn",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574456301829,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/RalphieMay/posts/10157687909878622"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574440725452,
+      "content": "Hows the first shift",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574308591767,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/Appowlow/posts/1438668186309474"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574271346949,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/TripleGoddessGuidance/posts/622088978329964"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270968004,
+      "content": "When they left the white Indian agent behind they started making band councils. \n\nThey forced band councils on ya Haudenosaunee people. \n\n1921 they arrested the confederacy chiefs in six nations an put in the band system",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270867192,
+      "content": "Hes employed by Ottawa",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270853718,
+      "content": "But hes band council chief",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270846578,
+      "content": "Should be",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574270836107,
+      "content": "Lol alrighty I'll get ready and head up. And really? Shouldn't that be like very public?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270808915,
+      "content": "He doesnt think the community needs to know the results of the vote.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270790214,
+      "content": "And guess what the chief said",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270784579,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270781601,
+      "content": "Sure I am now",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574270768588,
+      "content": "And wanna sesh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574270765312,
+      "content": "Didn't know that. Irma Google and check that out later.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270726094,
+      "content": "Tyendinaga voted last Friday",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270713647,
+      "content": "To weather or not Canadas cannabis act is forced on to the bay of quinte Mohawks",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270706936,
+      "content": "?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574270686513,
+      "content": "Seshski",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270114006,
+      "content": "An hes white LMFAO",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270089518,
+      "content": "His career was a cop \u00f0\u009f\u00a4\u00a6\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270079388,
+      "content": "The guy had the audacity to say that because of immigrants he had to change his career to find a job",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270044738,
+      "content": "U know what made me laugh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574270039899,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574270034944,
+      "content": "Lol that's not going to change unfortunately. Those in charge need to be put in their place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269989112,
+      "content": "Smh this is on going problem got decades, \n\nYou still got tap water fuck head the rezs dont",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269959024,
+      "content": "Buts like thats not privledge our tap waters no good we just found out",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269939807,
+      "content": "I said no privledge ? Its 2019 an theres still reserves with out water ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269919973,
+      "content": "I did good I made one comment lol resisting more lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269901107,
+      "content": "Im like your fucking BLIND",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269892627,
+      "content": "Me looking at posts of settlers complaining that they have no privledge in Canada",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574269882446,
+      "content": "That's why I tagged you lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574269864507,
+      "content": "That post is truth",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023975072,
+      "content": "He only sweeps half the kitchen, \n\nAn instead of using the dust pan sweeps it into the corner",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023941013,
+      "content": "Dude hes a lazy fuck",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023936502,
+      "content": "Okie dokie sounds good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023931411,
+      "content": "And lol yea norms no fan of him xd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023922545,
+      "content": "Aight I'm just getting my shit together. Gonna head to don and jeans and then swing by your place.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023898985,
+      "content": "Specially fucking mo \u00f0\u009f\u00a4\u00a6\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023885486,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023851020,
+      "content": "Yup I know bout that lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023843117,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023412146,
+      "content": "FUCKING rooming houses",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023404337,
+      "content": "No hot water xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574023399839,
+      "content": "Lmfao skipped the hair and raced out.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574023024408,
+      "content": "I can smell ya over here lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574022978998,
+      "content": "And sick dude thank you. I just have to showr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574022968804,
+      "content": "I hate drinking. But it's just been fun to waste some time. Then we fuck lol. And I've been drinking crown for a few months now lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021601024,
+      "content": "I prob got a pack here",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021535866,
+      "content": "I used to drink crown so atlest one night is like atlest $40 lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021491157,
+      "content": "One of the things I never liked bout drinking",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021452275,
+      "content": "That 100$ is like 2 an half weeks of ganja for me lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574021451140,
+      "content": "So whipped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574021444353,
+      "content": "The pussy has me whipped",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021439101,
+      "content": "Ya it adds up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574021417596,
+      "content": "But I bought weed 2 times and ordered us a bunch of food.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574021402020,
+      "content": "Drink if cost us 100$",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021399668,
+      "content": "I got a half for $40 couple weeks ago and Im still on it lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021371436,
+      "content": "Costs to fucking much lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574021366072,
+      "content": "Gotta quit that drinking bro lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574021141939,
+      "content": "I spent so much money this weekend it's bad. Me and Kayla drank to much to lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574020416025,
+      "content": "I was gonna say if u had 40$ I could prob get u a qt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574020343926,
+      "content": "Some weed. I've got like 12$ until wednesday.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574020203123,
+      "content": "What t u going to grab ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574020172796,
+      "content": "Grab what ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574019622900,
+      "content": "And i have to go grab, after would I be able to buy a pack of cigs off you? And sesh to lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1574019584439,
+      "content": "Lmfao the floats?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1574014189959,
+      "content": "Beware of floats",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573952801701,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1573952711138,
+      "content": "Not yet. I'm waiting for her to put addy to bed.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573950243810,
+      "content": "Get the gfs did ya lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573941046226,
+      "content": "Wuts good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573782640477,
+      "content": "Cody sent an attachment.",
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573319692964,
+      "content": "Up for some tokes?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573319666093,
+      "content": "Wuts up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573074248078,
+      "content": "Yesterday I scored a half Oz for $40",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573074213719,
+      "content": "Broski you gotta answer your phone bro lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573007051514,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/wesley.polite.5/posts/2683568375203806"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1573001346916,
+      "content": "Dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572971230422,
+      "content": "Matt chew",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572969515488,
+      "content": "There u go buddy",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572969511636,
+      "content": "http://www.m.bushcraftcanada.com/products/detail.cfm?product=3459",
+      "share": {
+        "link": "http://www.bushcraftcanada.com/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572888411670,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/illuminatiamtutor/posts/2419435771709408"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572798927032,
+      "content": "Cody sent a link.",
+      "share": {
+        "link": "https://thefreshtoast.com/cannabis/marijuana-can-clean-of-alzheimers-inducing-plaque/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572745260059,
+      "content": "Lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572745176283,
+      "audio_files": [
+        {
+          "uri": "messages/inbox/CodyDafoe_ncXW1VQIYA/audio/audioclip154424490200018111_544471092790682.mp4",
+          "creation_timestamp": 1572745175
+        }
+      ],
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572716615760,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/nepalimusical.ly123/posts/421666165206202"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572668195551,
+      "content": "I love that video lmao with the paper bag lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572621426907,
+      "content": "Dear Canadians it was a flicker of snow, \n\nThis is not the American sound 1 mm of snow will not shut down province lfnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572543254602,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/neonnativez/videos/1742047355835291/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572209363107,
+      "content": "I ended up going to the store",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572206980487,
+      "content": "im sorry i literally have 1 cigarette left myself. ill walk out there with you.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572190995543,
+      "content": "U got a pack I can buy off u ? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572188035949,
+      "content": "Ok lol I got like 2 smokes left lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572158944452,
+      "content": "sorry im not man. i dont have the money until next week.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572104509067,
+      "content": "Hey bro any chance u going to the rez today or tomorrow ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572055482743,
+      "content": "Oh ya lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572048647645,
+      "content": "i want to implement a user input error counter to count how many times someone fucks up inputting something and have the error messages get progressively douchier as they fail.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041956305,
+      "content": "Its killed millions of people lol \nAn on the listed on CDC controlled poisons lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041911882,
+      "content": "They should be doing what theyre doing with pot to to alcohol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041896246,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041887579,
+      "content": "if the gvt loosened up it would be alot better",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041857211,
+      "content": "It be like 2$ a fucking gram",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041847355,
+      "content": "Cause that makes its worthless for them",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041837544,
+      "content": "Ya they wouldnt tho",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041674976,
+      "content": "i wish they had decriminalized and fucked off",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041666400,
+      "content": "meh what can we do? the govt has its hands in every pile.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041550504,
+      "content": "The mail guy do t only got a Oz in the van lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041528879,
+      "content": "I know but I mean I delivery person should have more of a carry",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041505101,
+      "content": "you can have more at home and shit.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041498481,
+      "content": "no i know. but thats only in public",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041488079,
+      "content": "The carry limit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041476654,
+      "content": "and you run your own business",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041471625,
+      "content": "Thats retarded",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041470462,
+      "content": "20$/trip + tips",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041448937,
+      "content": "can only transport 30 grams at a time. so like 4 quarters, 8 8ths, or 1 whole ounce",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041421504,
+      "content": "well thats determined by legal carry limit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041408099,
+      "content": "i just cant let kids use it",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041398221,
+      "content": "theres no laws prohibiting what i want to do outright, yet anyways.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041390986,
+      "content": "Depending how many trips he making lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041378219,
+      "content": "2-3 hours if not?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041374354,
+      "content": "makes sense",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041372187,
+      "content": "so i mean realistically 45 mins - an hour if drivers already in ktown",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041348523,
+      "content": "so if someone in belleville needs, driver goes to \"kingston\" picks up and then delivers",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041323691,
+      "content": "lmfao yaa no. its local delivery only",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041310446,
+      "content": "I ordered this it took 3 days THEY SAID IT BE LIGHTNING QUICK",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041292825,
+      "content": "and what if you dont have a rez to rely on and your town didnt get any stores?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041292395,
+      "content": "So try to keep out lightning speed deliveries lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041273291,
+      "content": "or up to ten for rural areas",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041265718,
+      "content": "but itll be better than 1-3 day shipping",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041257834,
+      "content": "doubtful",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041250896,
+      "content": "But will it be lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041239564,
+      "content": "lightning fast delivery",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572041235201,
+      "content": "mostly cuz of the lighting warfare thing",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572041218622,
+      "content": "Lol days just the German in u lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572040955881,
+      "content": "im thinking blitzr",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572039841036,
+      "content": "Buds-B-Gone",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572039819425,
+      "content": "An if you do a harvesting one",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572039727985,
+      "content": "QuinteBudz-2-Go",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572039688449,
+      "content": "QuinteBudz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572039244274,
+      "content": "budblitz?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572039224896,
+      "content": "or Blitz",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572039177998,
+      "content": "Blitzd",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572038942549,
+      "content": "omg",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1572038938318,
+      "content": "Budlivery?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572038862177,
+      "content": "How bout PassTheChron",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1572016948441,
+      "content": "Whats goin on man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571757241209,
+      "content": "Happy birthday dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571682254190,
+      "content": "U still owe me a bowl lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675944309,
+      "content": "Leading to why Canada forced canadian citizenship on Haudenosaunee people in 1921. \n\nArresting the traditional confederacy council system and putting in the band council system.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675840161,
+      "content": "This is why the constitution says that treaties are the law of the land.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675801381,
+      "content": "The treaties are what allow now indigenous people to live in Canada",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675747157,
+      "content": "Well they never had the right to land",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675738498,
+      "content": "claim* not right",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675721623,
+      "content": "technically, according to trudeau and the globalist cabal, canada is a post nation state now, so in my mind that means theyve given up the right to the land and yall should go butcher parliment hill lol.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675393190,
+      "content": "Thats why they havent just raided everything yet lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675330086,
+      "content": "See the Haudenosaunee never surrendered to Britain we were allies, \n\nAnd still to this day hold sovereignty as basically a nation state,",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675261323,
+      "content": "Yup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675249069,
+      "content": "Tmt is going off of Sovereignty",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675241884,
+      "content": "but still makes it more difficult to get shit ready",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675224438,
+      "content": "lol this is true",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675174259,
+      "content": "The Indians can keep the supply and demand lol an the gov cant \u00f0\u009f\u0098\u0082",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675150367,
+      "content": "They make them look bad lmao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675140676,
+      "content": "They dont want the Indians making money lnao",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675129573,
+      "content": "fucking ford",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571675125901,
+      "content": "fuck eh",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675113718,
+      "content": "As far as I know been all Canadians",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571675099050,
+      "content": "No one on the rez won the raffle",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674863271,
+      "content": "i think one or 2 shops got actual licenses during that raffle, but beyond them, the rest on the rez are still illegal in canada, but legal on rez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674822711,
+      "content": "like the bag smokes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674819180,
+      "content": "rez shops are still considered contraband",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571674800619,
+      "content": "Ys thats",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674781557,
+      "content": "so i have o work with shops in kingston and shit",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674771001,
+      "content": "it just sucks because i cant legally partner with the rez",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674759106,
+      "content": "its a start lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571674756522,
+      "content": "Good job man",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571674743010,
+      "content": "Awesome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674686927,
+      "content": "i got a $12500 grant to develop my home delivery system.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571674662994,
+      "content": "naw im ok. im orking full time on quinte chronic",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571674588886,
+      "content": "Get working lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571597572112,
+      "content": "Nice cannabis apps is prob most likely way to go. Lol \n\nYa I heard of it looks pretty good.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571595639153,
+      "content": "its a native survival game. you have to kill whiteys",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571595616416,
+      "content": "https://www.thislandmyland.com/?fbclid=IwAR0iDA1TNQsdFXf3jxn-mlSnHeTcSagYsel_xlJzd-IUqgCmlCJM2tWKMx0",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571591390674,
+      "content": "i might call it skip the dealer.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571591366267,
+      "content": "im developing the first skip the dishes type app for cannabis",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571591348468,
+      "content": "lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571591347632,
+      "content": "i am sorry ive been busy with the newest dumb idea that will only sell for a fraction of what i want it to",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571591096321,
+      "content": "Maybe",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571591093363,
+      "content": "Its alive",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571495038611,
+      "content": "Sup",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571258092609,
+      "content": "Mother fucker I wanna job rolling blunts for $50k a year.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571258011935,
+      "content": "Cody sent a link.",
+      "share": {
+        "link": "https://www.marijuanamoment.net/snoop-dogg-has-a-salaried-marijuana-blunt-roller-on-staff/"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571257768907,
+      "content": "An remember theyre are no demons lol \nDemon comes from Greek daemon which means spirits",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571239591211,
+      "content": "Get to work lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571151946146,
+      "content": "Wuts up",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093319362,
+      "content": "The garlic dill pickles",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093304148,
+      "content": "Bacon pickle turkey sandwiches",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093291245,
+      "content": "Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571093275951,
+      "content": "llol its soo good",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093247654,
+      "content": "Eating more turkey lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093240975,
+      "content": "Its alright lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571093225609,
+      "content": "how was your weekend?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093205305,
+      "content": "Jesus",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1571093193425,
+      "content": "lol had dinner earlier. now i have a weeks worth of work to do in 9ish hours xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1571093113488,
+      "content": "Go get the turkey lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570998384982,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/mike.nicholls.5473/posts/753267028445632"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570900462296,
+      "content": "What you doing ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570835275320,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/onlyincanada1867/posts/3285791428272974"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570815500157,
+      "content": "Thats how it goes",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570815489467,
+      "content": "Bongs ? Lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1570691771751,
+      "content": "fuck sorry ive been busy coding and shit lately. im trying o get like 5 million things done and theres just not enougb time.",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570663606524,
+      "content": "Time",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570663604234,
+      "content": "Stoner tome",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570659656882,
+      "content": "Just chilling at home",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570659126498,
+      "content": "Oh cant really get in any lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1570658093573,
+      "content": "trying lol. you?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570658059274,
+      "content": "Stayin outta shit?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570658002523,
+      "content": "Ah",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1570656837846,
+      "content": "hmm, im trying to find a way around something, but it might be a cunt",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570656800652,
+      "content": "so its possible",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570656792826,
+      "content": "Under the indian act  any reserve is the jurisdiction of the RCMP",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1570656730080,
+      "content": "if i hosted a server on the rez could the police seize it?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570295776887,
+      "content": "Hows the weekend treating you",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570149821696,
+      "content": "Sup dude",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570056100348,
+      "content": "And going for medicine tomorrow",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1570055991089,
+      "content": "Hey man were u out at the house Saturday ?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569983530538,
+      "content": "I want one lol",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569972594314,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/herb/posts/10158386080368514"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569972589151,
+      "content": "Cody sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/herb/posts/10158394457258514"
+      },
+      "type": "Share"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569970015924,
+      "content": "U",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569970014405,
+      "content": "Y",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569970010001,
+      "content": "Lol alright",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1569968955774,
+      "content": "hows it going?",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Matthew Perley",
+      "timestamp_ms": 1569968951614,
+      "content": "lol its like 3 years old now xD",
+      "type": "Generic"
+    },
+    {
+      "sender_name": "Cody Dafoe",
+      "timestamp_ms": 1569955810315,
+      "content": "Nice pic werido :-p",
+      "type": "Generic"
+    }
+  ],
+  "title": "Cody Dafoe",
+  "is_still_participant": true,
+  "thread_type": "Regular",
+  "thread_path": "inbox/CodyDafoe_ncXW1VQIYA"
+}

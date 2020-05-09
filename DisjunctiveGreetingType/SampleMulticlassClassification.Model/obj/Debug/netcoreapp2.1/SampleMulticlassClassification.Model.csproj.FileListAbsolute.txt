@@ -1,0 +1,9 @@
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.deps.json
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.dll
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.pdb
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.csprojAssemblyReference.cache
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.AssemblyInfoInputs.cache
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.AssemblyInfo.cs
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.dll
+/home/matt/SampleMulticlassClassification/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/SampleMulticlassClassification.Model.pdb

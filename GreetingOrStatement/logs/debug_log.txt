@@ -1,0 +1,883 @@
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: binary-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 1	0.921505049388176	00:00:02.8098590	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+|1    AveragedPerceptronBinary               0.9375   0.9531   0.9642    0.9333       2.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: binary-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 1	NaN	00:00:02.0876990	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+|1    AveragedPerceptronBinary                  NaN      NaN      NaN       NaN       2.1          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 2	NaN	00:00:02.9605538	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+|2    SdcaLogisticRegressionBinary              NaN      NaN      NaN       NaN       3.0          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 3	NaN	00:00:09.3002539	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+|3    LightGbmBinary                            NaN      NaN      NaN       NaN       9.3          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+Exception occured while exploring pipelines:
+Training failed with the exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+System.InvalidOperationException: Training failed with the exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: binary-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 1	NaN	00:00:01.8708095	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+|1    AveragedPerceptronBinary                  NaN      NaN      NaN       NaN       1.9          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+ . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 2	NaN	00:00:02.8274560	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+|2    SdcaLogisticRegressionBinary              NaN      NaN      NaN       NaN       2.8          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=- . Exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 3	NaN	00:00:15.6771973	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+|3    LightGbmBinary                            NaN      NaN      NaN       NaN      15.7          0             |
+System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+Exception occured while exploring pipelines:
+Training failed with the exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+System.InvalidOperationException: Training failed with the exception: System.ArgumentOutOfRangeException: AUC is not defined when there is no negative class in the data
+Parameter name: NegSample
+   at Microsoft.ML.Data.EvaluatorBase`1.AucAggregatorBase`1.ComputeWeightedAuc(Double& unweighted)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Aggregator.Finish()
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.<>c__DisplayClass32_0.<GetAggregatorConsolidationFuncs>b__0(UInt32 stratColKey, ReadOnlyMemory`1 stratColVal, Aggregator agg)
+   at Microsoft.ML.Data.EvaluatorBase`1.ProcessData(IDataView data, RoleMappedSchema schema, Func`2 activeColsIndices, TAgg aggregator, AggregatorDictionaryBase[] dictionaries)
+   at Microsoft.ML.Data.EvaluatorBase`1.Microsoft.ML.Data.IEvaluator.Evaluate(RoleMappedData data)
+   at Microsoft.ML.Data.BinaryClassifierEvaluator.Evaluate(IDataView data, String label, String score, String predictedLabel)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Unable to split the file provided into multiple, consistent columns.
+Microsoft.ML.AutoML.InferenceException: Unable to split the file provided into multiple, consistent columns.
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferSplit(MLContext context, TextFileSample sample, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+An Error occured during inferring columns
+Specified label column 'Greeting' was not found.
+System.ArgumentException: Specified label column 'Greeting' was not found.
+   at Microsoft.ML.AutoML.ColumnTypeInference.GetAndValidateLabelColumn(Arguments args, IntermediateColumn[] cols)
+   at Microsoft.ML.AutoML.ColumnTypeInference.InferTextFileColumnTypesCore(MLContext context, IMultiStreamSource fileSource, Arguments args)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumnTypes(MLContext context, TextFileSample sample, ColumnSplitResult splitInference, Boolean hasHeader, Nullable`1 labelColumnIndex, String label)
+   at Microsoft.ML.AutoML.ColumnInferenceApi.InferColumns(MLContext context, String path, ColumnInformation columnInfo, Nullable`1 separatorChar, Nullable`1 allowQuotedStrings, Nullable`1 supportSparse, Boolean trimWhitespace, Boolean groupColumns)
+   at Microsoft.ML.CLI.CodeGenerator.AutoMLEngine.InferColumns(MLContext context, ColumnInformation columnInformation)
+   at Microsoft.ML.CLI.CodeGenerator.CodeGenerationHelper.GenerateCode()
+   at Microsoft.ML.CLI.Program.<>c__DisplayClass1_0.<Main>b__0(NewCommandSettings options)
+Please see the log file for more info.
+Exiting ...
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: binary-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 1	0.976666666666667	00:00:02.1666120	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+|1    AveragedPerceptronBinary               1.0000   1.0000   1.0000    1.0000       2.2          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 2	0.994444444444444	00:00:02.2892683	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+|2    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.3          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+Inferring Columns ...
+Creating Data loader ...
+Loading data ...
+Exploring multiple ML algorithms and settings to find you the best model for ML task: binary-classification
+For further learning check: https://aka.ms/mlnet-cli
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+[Source=AutoML, Kind=Trace] Channel started
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 1	0.958888888888889	00:00:02.2912828	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{}  cache=+
+|1    AveragedPerceptronBinary               0.9444   0.9091   0.9258    0.9231       2.3          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 2	0.994444444444444	00:00:02.2853403	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{}  cache=+
+|2    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.3          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+[Source=AutoML, Kind=Trace] 3	0.877105672105672	00:00:07.9538939	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=LightGbmBinary{}  cache=-
+|3    LightGbmBinary                         0.8750   1.0000   1.0000    0.6667       8.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Error] Pipeline crashed: xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+ . Exception: System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] 4	NaN	00:00:00.3301717	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SymbolicSgdLogisticRegressionBinary{}  cache=+
+|4    SymbolicSgdLogisticRegressionBinary       NaN      NaN      NaN       NaN       0.3          0             |
+System.TypeInitializationException: The type initializer for 'Native' threw an exception. ---> System.DllNotFoundException: Unable to load shared library 'MklImports' or one of its dependencies. In order to help diagnose loading problems, consider setting the LD_DEBUG environment variable: libMklImports: cannot open shared object file: No such file or directory
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.ErrorMessage(Int32 status)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native..cctor()
+   --- End of inner exception stack trace ---
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.Native.LearnAll(InputDataManager inputDataManager, Boolean tuneLR, Single& lr, Single l2Const, Single piw, Span`1 weightVector, Single& bias, Int32 numFeatres, Int32 numPasses, Int32 numThreads, Boolean tuneNumLocIter, Int32& numLocIter, Single tolerance, Boolean needShuffle, Boolean shouldInitialize, GCHandle stateGCHandle, ChannelCallBack info)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainCore(IChannel ch, RoleMappedData data, LinearModelParameters predictor, Int32 weightSetCount)
+   at Microsoft.ML.Trainers.SymbolicSgdLogisticRegressionBinaryTrainer.TrainModelCore(TrainContext context)
+   at Microsoft.ML.Trainers.TrainerEstimatorBase`2.TrainTransformer(IDataView trainSet, IDataView validationSet, IPredictor initPredictor)
+   at Microsoft.ML.Data.EstimatorChain`1.Fit(IDataView input)
+   at Microsoft.ML.AutoML.RunnerUtil.TrainAndScorePipeline[TMetrics](MLContext context, SuggestedPipeline pipeline, IDataView trainData, IDataView validData, String labelColumn, IMetricsAgent`1 metricsAgent, ITransformer preprocessorTransform, FileInfo modelFileInfo, DataViewSchema modelInputSchema, AutoMLLogger logger)
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=LinearSvmBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 5	0.929040404040404	00:00:00.6889079	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=LinearSvmBinary{}  cache=+
+|5    LinearSvmBinary                        0.9444   0.9870   0.9809    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=FastTreeBinary{}  cache=-
+[Source=AutoML, Kind=Trace] 6	0.952460317460317	00:00:05.8544913	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=FastTreeBinary{}  cache=-
+|6    FastTreeBinary                         0.9524   0.9722   0.9028    0.8571       5.9          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=LbfgsLogisticRegressionBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 7	0.949520202020202	00:00:00.9418440	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=LbfgsLogisticRegressionBinary{}  cache=+
+|7    LbfgsLogisticRegressionBinary          0.9333   1.0000   1.0000    0.9091       0.9          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=FastForestBinary{}  cache=-
+[Source=AutoML, Kind=Trace] 8	0.877304084804085	00:00:03.3500956	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} tr=FastForestBinary{}  cache=-
+|8    FastForestBinary                       0.8750   0.9333   0.9410    0.8333       3.4          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{}  cache=+
+[Source=AutoML, Kind=Trace] 9	0.977083333333333	00:00:00.7793071	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{}  cache=+
+|9    SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.257708, NumberOfIterations:2, InitialWeightsDiameter:0.7800931, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 10	0.613064713064713	00:00:00.7370370	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.257708, NumberOfIterations:2, InitialWeightsDiameter:0.7800931, Shuffle:False}  cache=+
+|10   AveragedPerceptronBinary               0.6111   0.9221   0.8697       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.75, ConvergenceTolerance:0.001, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 11	0.965972222222222	00:00:00.7227378	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.75, ConvergenceTolerance:0.001, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+|11   SdcaLogisticRegressionBinary           0.9444   0.9351   0.9378    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:5, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 12	0.939318181818182	00:00:00.6865267	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:5, Shuffle:False}  cache=+
+|12   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:True, L2Regularization:0.06990097, NumberOfIterations:17, InitialWeightsDiameter:0.9177101, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 13	0.521686646686647	00:00:00.7056285	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:True, L2Regularization:0.06990097, NumberOfIterations:17, InitialWeightsDiameter:0.9177101, Shuffle:False}  cache=+
+|13   AveragedPerceptronBinary               0.5556   0.5000   0.4914    0.7143       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:100, Shuffle:False, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 14	0.983333333333333	00:00:01.2290579	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:100, Shuffle:False, BiasLearningRate:0.01}  cache=+
+|14   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.2          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 15	0.961325757575758	00:00:00.8553265	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:True}  cache=+
+|15   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.9          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.2109917, NumberOfIterations:17, InitialWeightsDiameter:0.6179574, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 16	0.613064713064713	00:00:00.7266379	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.2109917, NumberOfIterations:17, InitialWeightsDiameter:0.6179574, Shuffle:True}  cache=+
+|16   AveragedPerceptronBinary               0.6111   0.9221   0.9313       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.25, ConvergenceTolerance:0.2, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0.1}  cache=+
+[Source=AutoML, Kind=Trace] 17	0.983333333333333	00:00:01.4323427	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.25, ConvergenceTolerance:0.2, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0.1}  cache=+
+|17   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.4          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:5, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 18	0.961325757575758	00:00:00.7108750	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:5, Shuffle:True}  cache=+
+|18   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.2230335, NumberOfIterations:14, InitialWeightsDiameter:0.09698784, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 19	0.613064713064713	00:00:00.7170762	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.2230335, NumberOfIterations:14, InitialWeightsDiameter:0.09698784, Shuffle:False}  cache=+
+|19   AveragedPerceptronBinary               0.6111   0.9351   0.9233       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 20	0.994444444444444	00:00:00.7921359	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:1}  cache=+
+|20   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:1, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 21	0.864940753690754	00:00:00.6972393	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:1, Shuffle:True}  cache=+
+|21   SgdCalibratedBinary                    0.8182   1.0000   1.0000    0.6667       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.1234547, NumberOfIterations:2, InitialWeightsDiameter:0.05067003, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 22	0.749229936729937	00:00:00.6845229	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.1234547, NumberOfIterations:2, InitialWeightsDiameter:0.05067003, Shuffle:True}  cache=+
+|22   AveragedPerceptronBinary               0.7500   1.0000   1.0000    0.5000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-05, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 23	0.994444444444444	00:00:00.7419865	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-05, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|23   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 24	0.961325757575758	00:00:00.7265211	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:10, Shuffle:False}  cache=+
+|24   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.1758686, NumberOfIterations:12, InitialWeightsDiameter:0.5746038, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 25	0.944659090909091	00:00:00.7227126	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.1758686, NumberOfIterations:12, InitialWeightsDiameter:0.5746038, Shuffle:True}  cache=+
+|25   AveragedPerceptronBinary               0.9375   1.0000   1.0000    0.9091       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0.5, ConvergenceTolerance:0.01, MaximumNumberOfIterations:<Auto>, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 26	0.983333333333333	00:00:01.4621876	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0.5, ConvergenceTolerance:0.01, MaximumNumberOfIterations:<Auto>, Shuffle:True, BiasLearningRate:1}  cache=+
+|26   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.5          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:10, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 27	0.961325757575758	00:00:00.7777430	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:10, Shuffle:True}  cache=+
+|27   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.237096, NumberOfIterations:6, InitialWeightsDiameter:0.2581953, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 28	0.613064713064713	00:00:00.6917934	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.237096, NumberOfIterations:6, InitialWeightsDiameter:0.2581953, Shuffle:False}  cache=+
+|28   AveragedPerceptronBinary               0.6111   0.7532   0.6372       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 29	0.994444444444444	00:00:00.7579948	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+|29   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:5, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 30	0.961325757575758	00:00:00.7139984	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:5, Shuffle:True}  cache=+
+|30   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.09209821, NumberOfIterations:7, InitialWeightsDiameter:0.7340016, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 31	0.613064713064713	00:00:00.6848579	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.09209821, NumberOfIterations:7, InitialWeightsDiameter:0.7340016, Shuffle:True}  cache=+
+|31   AveragedPerceptronBinary               0.6111   0.9351   0.9378       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-06, L1Regularization:1, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 32	0.977083333333333	00:00:00.8730128	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-06, L1Regularization:1, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|32   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.9          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:10, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 33	0.961325757575758	00:00:00.7397049	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.0001, NumberOfIterations:10, Shuffle:False}  cache=+
+|33   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.3979377, NumberOfIterations:6, InitialWeightsDiameter:0.5315682, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 34	0.613064713064713	00:00:00.7322463	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.3979377, NumberOfIterations:6, InitialWeightsDiameter:0.5315682, Shuffle:False}  cache=+
+|34   AveragedPerceptronBinary               0.6111   0.6234   0.5426       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0.25, ConvergenceTolerance:0.1, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0}  cache=+
+[Source=AutoML, Kind=Trace] 35	0.977083333333333	00:00:01.2158606	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0.25, ConvergenceTolerance:0.1, MaximumNumberOfIterations:<Auto>, Shuffle:False, BiasLearningRate:0}  cache=+
+|35   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.2          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.001, NumberOfIterations:1, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 36	0.892835081585081	00:00:00.7252564	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.001, NumberOfIterations:1, Shuffle:True}  cache=+
+|36   SgdCalibratedBinary                    0.8889   1.0000   1.0000    0.8889       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.3310924, NumberOfIterations:7, InitialWeightsDiameter:0.6355916, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 37	0.613064713064713	00:00:00.7068406	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.3310924, NumberOfIterations:7, InitialWeightsDiameter:0.6355916, Shuffle:False}  cache=+
+|37   AveragedPerceptronBinary               0.6111   0.9610   0.9548       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:0.1}  cache=+
+[Source=AutoML, Kind=Trace] 38	0.983333333333333	00:00:00.7917883	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:0.1}  cache=+
+|38   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:1E-05, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 39	0.977083333333333	00:00:00.7874872	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:1E-05, NumberOfIterations:20, Shuffle:True}  cache=+
+|39   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.07295699, NumberOfIterations:2, InitialWeightsDiameter:0.7868175, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 40	0.965972222222222	00:00:00.6949051	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.07295699, NumberOfIterations:2, InitialWeightsDiameter:0.7868175, Shuffle:True}  cache=+
+|40   AveragedPerceptronBinary               0.9375   1.0000   1.0000    0.9091       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-05, L1Regularization:0.75, ConvergenceTolerance:0.001, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 41	0.983333333333333	00:00:01.1359833	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-05, L1Regularization:0.75, ConvergenceTolerance:0.001, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:0.01}  cache=+
+|41   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.1          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 42	0.977083333333333	00:00:00.7919302	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+|42   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.2071112, NumberOfIterations:1, InitialWeightsDiameter:0.3688923, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 43	0.936111111111111	00:00:00.6846781	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.2071112, NumberOfIterations:1, InitialWeightsDiameter:0.3688923, Shuffle:True}  cache=+
+|43   AveragedPerceptronBinary               1.0000   1.0000   1.0000    1.0000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:0.1}  cache=+
+[Source=AutoML, Kind=Trace] 44	0.966765873015873	00:00:00.7491736	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:0.1}  cache=+
+|44   SdcaLogisticRegressionBinary           0.9524   1.0000   1.0000    0.8000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.001, NumberOfIterations:5, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 45	0.961325757575758	00:00:00.7011860	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-07, ConvergenceTolerance:0.001, NumberOfIterations:5, Shuffle:True}  cache=+
+|45   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:True, L2Regularization:0.2993844, NumberOfIterations:58, InitialWeightsDiameter:0.04160041, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 46	0.613064713064713	00:00:00.8494034	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:True, L2Regularization:0.2993844, NumberOfIterations:58, InitialWeightsDiameter:0.04160041, Shuffle:False}  cache=+
+|46   AveragedPerceptronBinary               0.6111   1.0000   1.0000       NaN       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:0.75, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0}  cache=+
+[Source=AutoML, Kind=Trace] 47	0.977083333333333	00:00:00.7457570	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:0.75, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0}  cache=+
+|47   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.0001, NumberOfIterations:1, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 48	0.859268648018648	00:00:00.7294639	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.0001, NumberOfIterations:1, Shuffle:True}  cache=+
+|48   SgdCalibratedBinary                    0.8889   1.0000   1.0000    0.8889       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.01496265, NumberOfIterations:19, InitialWeightsDiameter:0.8874621, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 49	0.613064713064713	00:00:00.7203973	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.01496265, NumberOfIterations:19, InitialWeightsDiameter:0.8874621, Shuffle:False}  cache=+
+|49   AveragedPerceptronBinary               0.6111   0.9091   0.9258       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:<Auto>, ConvergenceTolerance:0.2, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 50	0.977083333333333	00:00:00.7514270	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:<Auto>, ConvergenceTolerance:0.2, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|50   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:1, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 51	0.761658202908203	00:00:00.6944414	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:1, Shuffle:False}  cache=+
+|51   SgdCalibratedBinary                    0.7273   1.0000   1.0000    0.4000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.2090416, NumberOfIterations:10, InitialWeightsDiameter:0.6354574, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 52	0.613064713064713	00:00:00.7235684	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.2090416, NumberOfIterations:10, InitialWeightsDiameter:0.6354574, Shuffle:False}  cache=+
+|52   AveragedPerceptronBinary               0.6111   0.9091   0.9258       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.75, ConvergenceTolerance:0.2, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 53	0.983333333333333	00:00:00.8282055	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0.75, ConvergenceTolerance:0.2, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|53   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 54	0.970416666666667	00:00:00.8076990	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:False}  cache=+
+|54   SgdCalibratedBinary                    0.9444   0.9351   0.9378    0.9231       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.2672014, NumberOfIterations:1, InitialWeightsDiameter:0.2135498, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 55	0.613064713064713	00:00:00.6899562	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.2672014, NumberOfIterations:1, InitialWeightsDiameter:0.2135498, Shuffle:True}  cache=+
+|55   AveragedPerceptronBinary               0.6111   0.8701   0.8949       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:<Auto>, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 56	0.977083333333333	00:00:00.7553052	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:<Auto>, ConvergenceTolerance:0.001, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:0.01}  cache=+
+|56   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:1, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 57	0.761658202908203	00:00:00.7236079	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:1, Shuffle:False}  cache=+
+|57   SgdCalibratedBinary                    0.7273   1.0000   1.0000    0.4000       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.148465, NumberOfIterations:6, InitialWeightsDiameter:0.05128235, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 58	0.613064713064713	00:00:00.7100336	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.01, DecreaseLearningRate:False, L2Regularization:0.148465, NumberOfIterations:6, InitialWeightsDiameter:0.05128235, Shuffle:True}  cache=+
+|58   AveragedPerceptronBinary               0.6111   0.9481   0.9455       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:1, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0}  cache=+
+[Source=AutoML, Kind=Trace] 59	0.966765873015873	00:00:00.7983837	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-07, L1Regularization:1, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0}  cache=+
+|59   SdcaLogisticRegressionBinary           0.9524   1.0000   1.0000    0.8571       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:1, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 60	0.869269758019758	00:00:00.7204863	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-06, ConvergenceTolerance:1E-05, NumberOfIterations:1, Shuffle:True}  cache=+
+|60   SgdCalibratedBinary                    0.9091   1.0000   1.0000    0.8571       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.2198101, NumberOfIterations:8, InitialWeightsDiameter:0.4486884, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 61	0.613064713064713	00:00:00.7075497	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.2198101, NumberOfIterations:8, InitialWeightsDiameter:0.4486884, Shuffle:False}  cache=+
+|61   AveragedPerceptronBinary               0.6111   0.8571   0.7076       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:1, ConvergenceTolerance:0.1, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 62	0.71854242979243	00:00:00.7660531	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:1, ConvergenceTolerance:0.1, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:1}  cache=+
+|62   SdcaLogisticRegressionBinary           0.7333   0.8981   0.8575    0.5000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 63	0.977083333333333	00:00:00.8026654	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+|63   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.1360865, NumberOfIterations:16, InitialWeightsDiameter:0.01238993, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 64	0.932853535353535	00:00:00.8003482	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.1360865, NumberOfIterations:16, InitialWeightsDiameter:0.01238993, Shuffle:True}  cache=+
+|64   AveragedPerceptronBinary               0.9333   1.0000   1.0000    0.9091       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:0}  cache=+
+[Source=AutoML, Kind=Trace] 65	0.983333333333333	00:00:01.0459666	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:1, ConvergenceTolerance:0.2, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:0}  cache=+
+|65   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.0001, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 66	0.977083333333333	00:00:00.8277632	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.0001, NumberOfIterations:20, Shuffle:True}  cache=+
+|66   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.3164144, NumberOfIterations:1, InitialWeightsDiameter:0.3329324, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 67	0.613064713064713	00:00:00.7354662	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:True, L2Regularization:0.3164144, NumberOfIterations:1, InitialWeightsDiameter:0.3329324, Shuffle:False}  cache=+
+|67   AveragedPerceptronBinary               0.6111   0.8961   0.7685       NaN       0.7          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0.5, ConvergenceTolerance:0.001, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 68	0.965972222222222	00:00:00.7983364	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.01, L1Regularization:0.5, ConvergenceTolerance:0.001, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:0.01}  cache=+
+|68   SdcaLogisticRegressionBinary           0.9444   0.9091   0.9258    0.9231       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:10, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 69	0.961325757575758	00:00:00.7799389	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:10, Shuffle:False}  cache=+
+|69   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       0.8          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.173289, NumberOfIterations:4, InitialWeightsDiameter:0.9557943, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 70	0.925075757575758	00:00:02.1729503	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.173289, NumberOfIterations:4, InitialWeightsDiameter:0.9557943, Shuffle:True}  cache=+
+|70   AveragedPerceptronBinary               0.9333   1.0000   1.0000    0.9091       2.2          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:<Auto>, Shuffle:True, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 71	0.994444444444444	00:00:02.5542530	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:<Auto>, Shuffle:True, BiasLearningRate:0.01}  cache=+
+|71   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 72	0.977083333333333	00:00:01.6106129	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:True}  cache=+
+|72   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.1535121, NumberOfIterations:5, InitialWeightsDiameter:0.9177101, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 73	0.939520202020202	00:00:02.0429961	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.1535121, NumberOfIterations:5, InitialWeightsDiameter:0.9177101, Shuffle:True}  cache=+
+|73   AveragedPerceptronBinary               0.9091   1.0000   1.0000    0.9333       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:0.01}  cache=+
+[Source=AutoML, Kind=Trace] 74	0.994444444444444	00:00:01.9270770	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.01, MaximumNumberOfIterations:10, Shuffle:False, BiasLearningRate:0.01}  cache=+
+|74   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.9          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 75	0.977083333333333	00:00:01.6077365	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:True}  cache=+
+|75   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.009039029, NumberOfIterations:2, InitialWeightsDiameter:0.9447845, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 76	0.959305555555556	00:00:01.9670902	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:True, L2Regularization:0.009039029, NumberOfIterations:2, InitialWeightsDiameter:0.9447845, Shuffle:True}  cache=+
+|76   AveragedPerceptronBinary               0.9375   0.9833   0.9742    0.9091       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 77	0.994444444444444	00:00:02.0004624	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:False, BiasLearningRate:1}  cache=+
+|77   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.0001, NumberOfIterations:20, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 78	0.970416666666667	00:00:01.6232815	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.0001, NumberOfIterations:20, Shuffle:False}  cache=+
+|78   SgdCalibratedBinary                    0.9444   0.9351   0.9378    0.9231       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.1497073, NumberOfIterations:6, InitialWeightsDiameter:0.8011983, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 79	0.941527777777778	00:00:02.0113892	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.1497073, NumberOfIterations:6, InitialWeightsDiameter:0.8011983, Shuffle:True}  cache=+
+|79   AveragedPerceptronBinary               0.9375   0.9833   0.9742    0.9091       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 80	0.994444444444444	00:00:02.0023715	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.0001, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|80   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 81	0.977083333333333	00:00:01.6299662	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:20, Shuffle:True}  cache=+
+|81   SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.257708, NumberOfIterations:2, InitialWeightsDiameter:0.7896974, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 82	0.95375	00:00:02.0408922	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.257708, NumberOfIterations:2, InitialWeightsDiameter:0.7896974, Shuffle:True}  cache=+
+|82   AveragedPerceptronBinary               0.9375   0.9833   0.9742    0.9091       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:1, ConvergenceTolerance:0.1, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 83	0.977083333333333	00:00:02.0257788	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:0.001, L1Regularization:1, ConvergenceTolerance:0.1, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:1}  cache=+
+|83   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:5, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 84	0.939318181818182	00:00:01.5245451	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:5E-06, ConvergenceTolerance:0.001, NumberOfIterations:5, Shuffle:False}  cache=+
+|84   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       1.5          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.2644697, NumberOfIterations:2, InitialWeightsDiameter:0.8895458, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 85	0.898623737373737	00:00:02.1011781	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:1, DecreaseLearningRate:False, L2Regularization:0.2644697, NumberOfIterations:2, InitialWeightsDiameter:0.8895458, Shuffle:True}  cache=+
+|85   AveragedPerceptronBinary               0.8889   0.8961   0.9211    0.8571       2.1          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-06, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 86	0.994444444444444	00:00:02.0701784	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:1E-06, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:20, Shuffle:True, BiasLearningRate:1}  cache=+
+|86   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.1          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:10, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 87	0.961325757575758	00:00:01.5871090	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.001, NumberOfIterations:10, Shuffle:True}  cache=+
+|87   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.1, DecreaseLearningRate:False, L2Regularization:0.03189121, NumberOfIterations:2, InitialWeightsDiameter:0.7896974, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 88	0.977083333333333	00:00:02.1128153	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.1, DecreaseLearningRate:False, L2Regularization:0.03189121, NumberOfIterations:2, InitialWeightsDiameter:0.7896974, Shuffle:True}  cache=+
+|88   AveragedPerceptronBinary               1.0000   1.0000   1.0000    1.0000       2.1          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 89	0.994444444444444	00:00:02.0231229	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:100, Shuffle:True, BiasLearningRate:1}  cache=+
+|89   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:False}  cache=+
+[Source=AutoML, Kind=Trace] 90	0.970416666666667	00:00:01.6086358	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-05, ConvergenceTolerance:0.01, NumberOfIterations:20, Shuffle:False}  cache=+
+|90   SgdCalibratedBinary                    0.9444   0.9351   0.9378    0.9231       1.6          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.009039029, NumberOfIterations:2, InitialWeightsDiameter:0.7845921, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 91	0.983333333333333	00:00:02.0449301	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=AveragedPerceptronBinary{LearningRate:0.5, DecreaseLearningRate:False, L2Regularization:0.009039029, NumberOfIterations:2, InitialWeightsDiameter:0.7845921, Shuffle:True}  cache=+
+|91   AveragedPerceptronBinary               1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:1}  cache=+
+[Source=AutoML, Kind=Trace] 92	0.977083333333333	00:00:01.9938013	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SdcaLogisticRegressionBinary{L2Regularization:<Auto>, L1Regularization:0, ConvergenceTolerance:0.1, MaximumNumberOfIterations:10, Shuffle:True, BiasLearningRate:1}  cache=+
+|92   SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.0          0             |
+[Source=AutoML, Kind=Trace] Evaluating pipeline xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.01, NumberOfIterations:5, Shuffle:True}  cache=+
+[Source=AutoML, Kind=Trace] 93	0.961325757575758	00:00:01.5676014	xf=TextFeaturizing{ col=Statement_tf:Statement} xf=ColumnCopying{ col=Features:Statement_tf} xf=Normalizing{ col=Features:Features} tr=SgdCalibratedBinary{L2Regularization:1E-07, ConvergenceTolerance:0.01, NumberOfIterations:5, Shuffle:True}  cache=+
+|93   SgdCalibratedBinary                    0.9444   0.9481   0.9455    0.9231       1.6          0             |
+
+===============================================Experiment Results=================================================
+------------------------------------------------------------------------------------------------------------------
+|                                                     Summary                                                    |
+------------------------------------------------------------------------------------------------------------------
+|ML Task: binary-classification                                                                                  |
+|Dataset: mainData.tsv                                                                                           |
+|Label : Greeting                                                                                                |
+|Total experiment time : 120.71 Secs                                                                             |
+|Total number of models explored: 93                                                                             |
+------------------------------------------------------------------------------------------------------------------
+|                                              Top 5 models explored                                             |
+------------------------------------------------------------------------------------------------------------------
+|     Trainer                              Accuracy      AUC    AUPRC  F1-score  Duration #Iteration             |
+|1    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       2.3          2             |
+|2    SgdCalibratedBinary                    1.0000   1.0000   1.0000    1.0000       0.8          8             |
+|3    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.2         13             |
+|4    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       1.4         16             |
+|5    SdcaLogisticRegressionBinary           1.0000   1.0000   1.0000    1.0000       0.8         19             |
+------------------------------------------------------------------------------------------------------------------
+Generated trained model for consumption: /home/matt/Projects/TestApp/TestApp/bin/Debug/SampleBinaryClassification/SampleBinaryClassification.Model/MLModel.zip
+Retrieving best pipeline ...
+Generated C# code for model consumption: /home/matt/Projects/TestApp/TestApp/bin/Debug/SampleBinaryClassification/SampleBinaryClassification.ConsoleApp
+Check out log file for more information: /home/matt/Projects/TestApp/TestApp/bin/Debug/SampleBinaryClassification/logs/debug_log.txt

@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{3FE992AF-3AB6-48DF-A3D7-C4C1032E8132}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestApp/PerleyMLMQTTlib/NeuralNetworking/NeuralLayer.cs">
+    <Files>
+      <File FileName="../TestApp/PerleyMLMQTTlib/NeuralNetworking/NeuronModel.cs" Line="38" Column="21" />
+      <File FileName="../TestApp/PerleyMLMQTTlib/NeuralNetworking/NeuralLayer.cs" Line="40" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KronusLogicProcessor" expanded="True">
+            <Node name="KronusLogicProcessor" expanded="True">
+              <Node name="MessageEngine" expanded="True" />
+            </Node>
+            <Node name="PerleyMLMQTTlib" expanded="True">
+              <Node name="NeuralNetworking" expanded="True">
+                <Node name="NeuralLayer.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.KronusMessenger PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.KronusLogicProcessor PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

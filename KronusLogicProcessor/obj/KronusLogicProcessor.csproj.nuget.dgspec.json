@@ -1,0 +1,652 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/matt/Projects/KronusLogicProcessor/KronusLogicProcessor/KronusLogicProcessor.csproj": {}
+  },
+  "projects": {
+    "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/DisjunctiveGreetingType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/DisjunctiveGreetingType.Model.csproj",
+        "projectName": "DisjunctiveGreetingType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/DisjunctiveGreetingType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/GeneralGreetingType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/GeneralGreetingType.Model.csproj",
+        "projectName": "GeneralGreetingType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/GeneralGreetingType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/GreetingStatement.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/GreetingStatement.Model.csproj",
+        "projectName": "GreetingStatement.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/GreetingStatement.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/GreetingType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/GreetingType.Model.csproj",
+        "projectName": "GreetingType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/GreetingType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.FastTree": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/KronusLogicProcessor/KronusLogicProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/KronusLogicProcessor/KronusLogicProcessor.csproj",
+        "projectName": "KronusLogicProcessor",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/KronusLogicProcessor/KronusLogicProcessor.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/KronusLogicProcessor/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/DisjunctiveGreetingType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/DisjunctiveGreetingType/SampleMulticlassClassification.Model/DisjunctiveGreetingType.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/GeneralGreetingType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/GeneralGreetingType/SampleMulticlassClassification.Model/GeneralGreetingType.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/GreetingStatement.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/GreetingStatement.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/GreetingType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/GreetingType/SampleMulticlassClassification.Model/GreetingType.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/QuestionStatement.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/QuestionStatement.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/QuestionType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/QuestionType.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/SentenceType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/SentenceType.Model.csproj"
+              },
+              "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/SentimentType.Model.csproj": {
+                "projectPath": "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/SentimentType.Model.csproj"
+              },
+              "/home/matt/Projects/TestApp/PerleyMLMQTTlib/PerleyMLMQTTlib.csproj": {
+                "projectPath": "/home/matt/Projects/TestApp/PerleyMLMQTTlib/PerleyMLMQTTlib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/QuestionStatement.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/QuestionStatement.Model.csproj",
+        "projectName": "QuestionStatement.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/QuestionStatement.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/QuestionType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/QuestionType.Model.csproj",
+        "projectName": "QuestionType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/QuestionType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/SentenceType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/SentenceType.Model.csproj",
+        "projectName": "SentenceType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/SentenceType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/SentenceType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.ML.LightGBM": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/SentimentType.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/SentimentType.Model.csproj",
+        "projectName": "SentimentType.Model",
+        "projectPath": "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/SentimentType.Model.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/KronusLogicProcessor/SentimentType/SampleMulticlassClassification.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.ML": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/matt/Projects/TestApp/PerleyMLMQTTlib/PerleyMLMQTTlib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/matt/Projects/TestApp/PerleyMLMQTTlib/PerleyMLMQTTlib.csproj",
+        "projectName": "PerleyMLMQTTlib",
+        "projectPath": "/home/matt/Projects/TestApp/PerleyMLMQTTlib/PerleyMLMQTTlib.csproj",
+        "packagesPath": "/home/matt/.nuget/packages/",
+        "outputPath": "/home/matt/Projects/TestApp/PerleyMLMQTTlib/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/matt/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "MQTTnet.NETStandard": {
+              "target": "Package",
+              "version": "[3.0.8, )"
+            },
+            "MathNet.Numerics": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,10 @@
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/QuestionType.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/QuestionType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/bin/Debug/netcoreapp2.1/QuestionType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/QuestionType/SampleMulticlassClassification.Model/obj/Debug/netcoreapp2.1/QuestionType.Model.csproj.CoreCompileInputs.cache

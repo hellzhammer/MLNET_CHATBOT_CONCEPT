@@ -1,0 +1,8 @@
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.dll
+/home/matt/Projects/KronusLogicProcessor/QuestionOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/SampleBinaryClassification.Model.pdb

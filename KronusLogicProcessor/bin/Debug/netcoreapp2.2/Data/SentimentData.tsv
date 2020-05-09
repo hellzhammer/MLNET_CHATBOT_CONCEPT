@@ -1,0 +1,592 @@
+ID	SentimentType	Statement
+012	    nice	happy
+1	    nice	pleasant
+2	    nice	that was great
+3	    nice	that was awesome
+4	    nice	that was cool
+5	    nice	this is cool
+6	    nice	this is awesome
+7	    nice	this is great
+8	    nice	youre going to laugh
+9	    nice	that was funny
+10	    nice	this is funny
+11	    nice	funny
+12	    nice	awesome
+13	    nice	great
+14	    nice	cool
+15	    nice	sweet
+16	    nice	pretty awesome
+17	    nice	amazing
+18	    nice	that was amazing
+19	    nice	holy cow that was cool
+20	    nice	shit that was fucking awesome
+21	    nice	wow that was interesting
+22	    nice	oh my god lets do that again
+23	    nice	that was the coolest
+24	    nice	this is soo cool
+25	    nice	this is friggin epic
+26	    nice	epic
+27	    nice	wow
+28	    nice	holy shit thats just sweet
+29	    nice	you are sweet
+30	    nice	youre sweet
+31	    nice	youre awesome
+32	    nice	youre funny
+33	    nice	i liked that
+34	    nice	i like that
+35	    nice	i think that was pretty fun
+36	    nice	fun
+37	    nice	fun stuff
+38	    nice	lol
+39	    nice	lmfao
+40	    nice	rofl
+41	    nice	amusing
+42	    nice	that makes me happy
+43	    nice	that made me happy
+44	    nice	it makes me happy when you do that
+45	    nice	can we do that again?
+46	    nice	im not sure what id do if not
+011	    love	i love you
+111	    love	i dont like when youre not here
+211	    love	come cuddle
+311	    love	love you
+411	    love	my love
+511	    love	i miss you lover
+611	    love	lover
+711	    love	i miss you my love
+811	    love	i miss you so much 
+911	    love	<3<3
+1011	love	<3
+1111	love	<3<3<3<3<3<3
+1211	love	xoxoxoxoxoxoxoxoxoox
+1311	love	xxxxxx
+1411	love	ooooo
+1511	love	xo
+1611	love	youre the most amazing man/woman ive ever met
+1711	love	marry me?
+1811	love	i love when you do that
+1911	love	i love when that happens
+2011	love	i really love you
+2111	love	i fucking love you
+2211	love	i think youre fucking great
+2311	love	i think youre the greatest
+2411	love	youre the best babe
+2511	love	babe
+2611	love	baby
+2711	love	babs
+2811	love	hun
+2911	love	sweety
+3011	love	sweetheart
+3111	love	youre my boo
+3211	love	thank you sweety
+3311	love	thank you sweetheart
+3411	love	thank you lover
+3511	love	i loved that
+3611	love	i never want to live another day without you
+3711	love	i cant live without you
+3811	love	i cant stand when youre not here
+3911	love	i need you
+1040	love	i want you in my life forever
+1041	love	thanks babe
+1042	love	thanks baby
+1043	love	bae
+1044	love	youre the sexiest
+1045	love	youre so sexy
+1046	love	youre sexy af
+1047	love	youre sexy as fuck
+1048	love	holy fuck youre hot
+1049	love	youre a hotty
+5100	love	we should get together, youre truly amazing
+1051	love	you are truly amazing
+1052	love	youre actually amazing
+1053	love	i wanna cuddle
+1054	love	i want to cuddle
+1055	love	can we cuddle?
+1056	love	cuddles?
+1057	love	cuddle me!
+1058	love	cuddle me
+1059	love	the things id do to you
+1060	love	youre fucking awesome baby
+1061	love	youre awesome babe
+1062	love	that was the best babe
+1063	love	babe can we cuddle
+1064	love	baby, i need you now
+1065	love	baby please
+1066	love	ok babe
+1067	love	babe please
+1068	love	babe, i need you now
+1069	love	homes not the same without you babe
+1070	love	i dont like when youre not around
+1071	love	i never want to sleep next to anyone else
+1072	love	i would never leave you
+1073	love	love me!
+1074	love	be mine?
+1075	love	hi boo!
+1076	love	hi sweety
+1077	love	hi lover
+1078	love	hey baby
+1079	love	hey lover
+1080	love	hey sweetheart
+1081	love	hey hun
+1082	love	hey baby, i miss you.
+1083	love	hey love i miss you
+1084	love	i miss you so much
+1085	love	hey sweetness i miss you.
+1086	love	hey sexy i love you
+1087	love	hey sexy i need you right now
+1088	love	can we get together? i need to see you again
+1089	love	youre the greatest thing to ever happen to me
+1090	love	i want to spend my whole life with you
+1091	love	i want to spend our whole lives together
+1092	love	you and me until the end
+1093	love	i love you
+010	    happy	You're an awesome friend.
+110	    happy	You're a gift to those around you.
+210	    happy	You're a smart cookie.
+310	    happy	You are awesome!
+410	    happy	You have impeccable manners.
+510	    happy	I like your style.
+610	    happy	You have the best laugh.
+710	    happy	I appreciate you.
+810	    happy	You are the most perfect you there is.
+910	    happy	You are enough.
+1010	happy	You're strong.
+1110	happy	Your perspective is refreshing.
+1210	happy	I'm grateful to know you.
+1310	happy	You light up the room.
+1410	happy	You deserve a hug right now.
+1510	happy	You should be proud of yourself.
+1610	happy	You're more helpful than you realize.
+1710	happy	You have a great sense of humor.
+1810	happy	You've got an awesome sense of humor!
+1910	happy	You are really courageous.
+2010	happy	Your kindness is a balm to all who encounter it.
+2110	happy	You're all that and a super-size bag of chips.
+2210	happy	On a scale from 1 to 10, you're an 11.
+2310	happy	You are strong.
+2410	happy	You're even more beautiful on the inside than you are on the outside.
+2510	happy	You have the courage of your convictions.
+2610	happy	I'm inspired by you.
+2710	happy	You're like a ray of sunshine on a really dreary day.
+2810	happy	You are making a difference.
+2910	happy	Thank you for being there for me.
+3010	happy	You bring out the best in other people.
+3110	happy	Your ability to recall random factoids at just the right time is impressive.
+3210	happy	You're a great listener.
+3310	happy	How is it that you always look great, even in sweatpants?
+3410	happy	Everything would be better if more people were like you!
+3510	happy	I bet you sweat glitter.
+3610	happy	You were cool way before hipsters were cool.
+3710	happy	That color is perfect on you.
+3810	happy	Hanging out with you is always a blast.
+3910	happy	You always know -- and say -- exactly what I need to hear when I need to hear it.
+4010	happy	You help me feel more joy in life.
+4110	happy	You may dance like no one's watching, but everyone's watching because you're an amazing dancer!
+4210	happy	Being around you makes everything better!
+4310	happy	When you say, "I meant to do that," I totally believe you.
+4410	happy	When you're not afraid to be yourself is when you're most incredible.
+4510	happy	Colors seem brighter when you're around.
+4610	happy	You're more fun than a ball pit filled with candy. (And seriously, what could be more fun than that?)
+4710	happy	That thing you don't like about yourself is what makes you so interesting.
+4810	happy	You're wonderful.
+4910	happy	You have cute elbows. For reals!
+5010	happy	Jokes are funnier when you tell them.
+5110	happy	You're better than a triple-scoop ice cream cone. With sprinkles.
+5210	happy	When I'm down you always say something encouraging to help me feel better.
+5310	happy	You are really kind to people around you.
+5410	happy	You're one of a kind!
+5510	happy	You help me be the best version of myself.
+5610	happy	If you were a box of crayons, you'd be the giant name-brand one with the built-in sharpener.
+5710	happy	You should be thanked more often. So thank you!!
+5810	happy	Our community is better because you're in it.
+5910	happy	Someone is getting through something hard right now because you've got their back. 
+6010	happy	You have the best ideas.
+6110	happy	You always find something special in the most ordinary things.
+6210	happy	Everyone gets knocked down sometimes, but you always get back up and keep going.
+6310	happy	You're a candle in the darkness.
+6410	happy	You're a great example to others.
+6510	happy	Being around you is like being on a happy little vacation.
+6610	happy	You always know just what to say.
+6710	happy	You're always learning new things and trying to better yourself, which is awesome.
+6810	happy	If someone based an Internet meme on you, it would have impeccable grammar.
+6910	happy	You could survive a Zombie apocalypse.
+7010	happy	You're more fun than bubble wrap.
+7110	happy	When you make a mistake, you try to fix it.
+7210	happy	Who raised you? They deserve a medal for a job well done.
+7310	happy	You're great at figuring stuff out.
+7410	happy	Your voice is magnificent.
+7510	happy	The people you love are lucky to have you in their lives.
+7610	happy	You're like a breath of fresh air.
+7710	happy	You make my insides jump around in the best way.
+7810	happy	You're so thoughtful.
+7910	happy	Your creative potential seems limitless.
+8010	happy	Your name suits you to a T.
+8110	happy	Your quirks are so you -- and I love that.
+8210	happy	When you say you will do something, I trust you.
+8310	happy	Somehow you make time stop and fly at the same time.
+8410	happy	When you make up your mind about something, nothing stands in your way.
+8510	happy	You seem to really know who you are.
+8610	happy	Any team would be lucky to have you on it.
+8710	happy	In high school I bet you were voted "most likely to keep being awesome."
+8810	happy	I bet you do the crossword puzzle in ink.
+8910	happy	Babies and small animals probably love you.
+1090	happy	If you were a scented candle they'd call it Perfectly Imperfect (and it would smell like summer).
+1091	happy	There's ordinary, and then there's you.
+1092	happy	You're someone's reason to smile.
+1093	happy	You're even better than a unicorn, because you're real.
+1094	happy	How do you keep being so funny and making everyone laugh?
+1095	happy	You have a good head on your shoulders.
+1096	happy	Has anyone ever told you that you have great posture?
+1097	happy	The way you treasure your loved ones is incredible.
+1098	happy	You're really something special.
+1099	happy	Thank you for being you.
+0	angry	fuck that
+1	angry	fuck this
+2	angry	wtf?
+3	angry	WTF?
+4	angry	what the fuck are you doing?
+5	angry	are you stupid?
+6	angry	what the hell?
+7	angry	wth?
+8	angry	fuck you.
+9	angry	youre fucking stupid
+10	angry	youre stupid
+11	angry	omg youre so annoying
+12	angry	go the fuck away
+13	angry	get the fuck outta here bitch
+14	angry	get out of here you skank
+15	angry	youre a whore
+16	angry	youre a slut
+17	angry	what is your problem?
+18	angry	what the hell is up with you?
+19	angry	get your shit together.
+20	angry	get it together fucker.
+21	angry	you want to fucking fight?
+22	angry	want to go outside?
+23	angry	youre pissing me off
+24	angry	stop now or im going to fuck you up
+25	angry	want me to fuck you up?
+26	angry	want your kid to spoon feed you?
+27	angry	want a beating?
+28	angry	ill kick the shit out of you
+29	angry	ill curbstomp your teeth in
+30	angry	ill fuck you and your friend up
+31	angry	bring it bitch
+32	angry	ill kill you
+33	angry	i cant stand that guy
+34	angry	why would they do that?
+35	angry	why would he do that?
+36	angry	why would she do that?
+37	angry	wtf is their problem?
+38	angry	fucking prick
+39	angry	prick
+40	angry	dick
+41	angry	fucker
+42	angry	fuck
+43	angry	jesus fucking christ
+44	angry	get the fuck out
+45	angry	git now
+46	angry	get out now
+47	angry	want me to call the cops?
+48	angry	you like it when youre the victim?
+49	angry	ill give you something to complain about 
+50	angry	ill give you something to whine about 
+51	angry	bitch
+52	angry	youre a bitch
+53	angry	youre a pussy
+54	angry	fuck you cunt
+55	angry	cunt
+56	angry	pussy ass bitch what are you going to do?
+57	angry	bring it the fuck on.
+0	disgust	eww
+1	disgust	gross
+2	disgust	disgusting
+3	disgust	you disgust me
+4	disgust	i really dont like you
+5	disgust	youre fucked
+6	disgust	why are you so messed up
+7	disgust	youre gross
+8	disgust	thats gross
+9	disgust	thats nasty
+10	disgust	omg gross
+11	disgust	omg nasty
+12	disgust	omg youre nasty
+13	disgust	omg thats fucking disgusting
+14	disgust	that is disgusting
+15	disgust	that grosses me out
+16	disgust	i cant even look at you
+17	disgust	youre through
+18	disgust	get out of my sight
+19	disgust	nope done.
+20	disgust	fuck that, why would you do that?
+21	disgust	why would you even do that?
+22	disgust	that is horrible!
+23	disgust	omg...
+24	disgust	why would you try that?
+25	disgust	that is stupid
+26	disgust	youre retarded
+27	disgust	thats retarded
+28	disgust	retard
+29	disgust	moron
+30	disgust	dumbass
+31	disgust	dumb ass
+32	disgust	stupid
+33	disgust	stupid fuck
+34	disgust	stupid mother fucker.
+35	disgust	youre so dumb
+36	disgust	youre so stupid
+37	disgust	why are you so dumb?
+38	disgust	why cant you get youre shit together?
+39	disgust	get it together man
+40	disgust	youre almost x act your age
+41	disgust	act your age.
+42	disgust	jesus christ
+43	disgust	thats fucked right up
+44	disgust	eeeewwwwww
+45	disgust	no get that away from me
+46	disgust	eww your fucked
+0	mean	you suck
+1	mean	i dont like you
+2	mean	get good noob
+3	mean	noob
+4	mean	dick
+5	mean	asshole
+6	mean	wtf fag?
+7	mean	fag faggot
+8	mean	loser
+9	mean	youre a loser
+10	mean	why are you such a loser?
+11	mean	why are you such a dork?
+12	mean	dork
+13	mean	stupid
+14	mean	youre so stupid
+15	mean	why are you so stupid?
+16	mean	dumb
+17	mean	dummy
+18	mean	youre not that bright are you?
+19	mean	theyre not the sharpest tool in the shed
+20	mean	theyre not the brightest bulb are they?
+21	mean	that guy was annoying
+22	mean	that was stupid
+23	mean	that was retarded
+24	mean	i dont even want to know
+25	mean	you are soo annoying
+26	mean	this is stupid
+27	mean	this is getting pretty old
+28	mean	i dont want to know you
+29	mean	i dont even want to bother
+30	mean	this is getting gay af
+31	mean	stupid af
+32	mean	dumb af
+33	mean	youre annoying af
+34	mean	i dont get why you like that kind of shit
+35	mean	why do you listen to that? its so bad.
+36	mean	that stuff was horrible.
+37	mean	lets never do that again
+38	mean	i never want to hear that again
+39	mean	can we leave already?
+40	mean	i want to leave
+41	mean	fuck this
+42	mean	i cant stand you
+43	mean	i cant do that because youre fucked
+44	mean	youre fucked
+45	mean	omg go away
+46	mean	omg
+47	mean	go away
+48	mean	get out of my life
+49	mean	get out of here
+50	mean	get out of my house
+51	mean	you can get the fuck away from me
+52	mean	you can get the fuck away from us
+53	mean	you can get the fuck away from them
+54	mean	thats absurd
+55	mean	youre a liar
+56	mean	liar
+57	mean	jerk
+58	mean	jerkuad
+59	mean	fagamo
+60	mean	douche
+61	mean	douche bag
+62	mean	lame
+63	mean	lame ass
+64	mean	youre ass backwards eh?
+0	neutral	that was cool.
+1	neutral	can we try that again?
+2	neutral	how are you?
+3	neutral	what are you doing?
+4	neutral	want to hang out?
+5	neutral	want to get together?
+6	neutral	want to chill?
+7	neutral	want to sesh?
+8	neutral	not alot.
+9	neutral	pretty good
+10	neutral	chilling
+11	neutral	just chillin
+12	neutral	playing games
+13	neutral	hanging out with friends. how about you?
+14	neutral	nm hbu?
+15	neutral	nm
+16	neutral	hbu?
+17	neutral	hbu
+18	neutral	wow really?
+19	neutral	shit really?
+20	neutral	really?
+21	neutral	omg
+22	neutral	i can do that yaa.
+23	neutral	yaa one sec
+24	neutral	can you give me a hand?
+25	neutral	i need a hand
+26	neutral	you should try that.
+27	neutral	youd be good at that.
+28	neutral	that is actually bad ass 
+29	neutral	we should try this sometime
+30	neutral	we should do that 
+31	neutral	we should try that
+32	neutral	we should do that sometime
+33	neutral	i can try in a moment
+34	neutral	i can try in a sec
+35	neutral	give me a sec
+36	neutral	cool cool
+37	neutral	ok
+38	neutral	kk
+39	neutral	sup?
+40	neutral	sup
+41	neutral	whats up homie?
+42	neutral	whats up cracker?
+43	neutral	whats up broski?
+44	neutral	whats up my dude?
+45	neutral	whats up dude?
+46	neutral	how are you dude?
+47	neutral	how are you broski?
+48	neutral	how are you homie?
+49	neutral	wassssuuupppp
+50	neutral	wassup
+51	neutral	huh?
+52	neutral	what the hell
+53	neutral	why on earth would that happen?
+54	neutral	oh lord eh
+0	racist	nigger
+1	racist	jigaboo
+2	racist	jiggaboo
+3	racist	turban head
+4	racist	dot head
+5	racist	paki
+6	racist	packi
+7	racist	jew
+8	racist	kike
+9	racist	nigga
+10	racist	porch monkey
+11	racist	chink
+12	racist	chink eyed
+13	racist	squinty eyed
+14	racist	camel fucker
+15	racist	goat fucker
+16	racist	they fuck goats
+17	racist	they fuck camels
+18	racist	jews
+19	racist	the blacks
+20	racist	the jews
+21	racist	the kikes
+22	racist	the niggers
+23	racist	that nigger
+24	racist	hes a nigger
+25	racist	you know nigger
+26	racist	them niggers
+27	racist	niggers
+28	racist	savages
+29	racist	savage
+30	racist	skids
+31	racist	skinnies
+32	racist	camel jockies
+33	racist	terrorist
+34	racist	terrorizer
+35	racist	curry smelling fucks
+36	racist	stupid turban wearing fucks
+37	racist	they should go blow up like the rest of them
+38	racist	bet hes a suicide bomber
+39	racist	cracker
+40	racist	cracker jack
+41	racist	stupid crackers
+42	racist	whites
+43	racist	blacks
+44	racist	chinks
+45	racist	pakis
+0	sad	sad
+1	sad	depressed
+2	sad	feeling grey
+3	sad	blues
+4	sad	i feel blue
+5	sad	im a bit depressed
+6	sad	im depressed
+7	sad	i dont feel to good today
+8	sad	im a bit heart broken
+9	sad	heart broken
+10	sad	my heart feels broken
+11	sad	please stop lying to me
+12	sad	why would you lie to me?
+13	sad	dont lie to me
+14	sad	dont lie
+15	sad	stop lying please
+16	sad	stop lying
+17	sad	im upset
+18	sad	he hurt my feelings
+19	sad	she hurt my feelings
+20	sad	right in the feels
+21	sad	:(
+22	sad	D:
+23	sad	.....
+24	sad	..
+25	sad	...
+26	sad	i just cant
+27	sad	i cant do this anymore
+28	sad	i dont want to live anymore
+29	sad	why is she like that?
+30	sad	why is he like that?
+31	sad	why are you doing that?
+32	sad	dont do this please.
+33	sad	why cant you just help me?
+34	sad	i need help.
+35	sad	i dont know what im going to do...
+36	sad	idk what to do..
+37	sad	idk what to do
+38	sad	i dont know what im going to do.
+39	sad	please help
+40	sad	i cant take it any more
+41	sad	i cant take it anymore
+42	sad	somethings gotta give
+43	sad	hopefully ill feel better later
+44	sad	hopefully ill feel better tomorrow
+45	sad	hopefully ill feel better in the morning
+46	sad	im just going to go to bed. i cant do today anymore.
+47	sad	i cant do today anymore.
+48	sad	im feeling antisocial
+49	sad	i feel like they dont accept me
+50	sad	i wish they would accept me
+51	sad	i feel like an outcast
+52	sad	am i an outcast?
+53	sad	why would they do that to me?
+54	sad	why would they do that for you?
+55	sad	i need you :(
+56	sad	i need you here..
+57	sad	please come cheer me up?
+58	sad	</3
+59	sad	E/>
+60	sad	:'(
+61	sad	no...
+62	sad	dont go..
+63	sad	please...
+64	sad	idk what to say anymore
+65	sad	it hurts to much
+66	sad	im going to lose it.
+67	sad	im going to break down
+68	sad	break down
+69	sad	cry
+70	sad	im going to cry
+71	sad	i cant stop crying
+72	sad	im so depressed today
+73	sad	my heart hurts because of you.
+74	sad	i cant trust you.
+75	sad	i cant be with you anymore...
+76	sad	you did this, not me!
+77	sad	why wont you listen to me?
+78	sad	dont...

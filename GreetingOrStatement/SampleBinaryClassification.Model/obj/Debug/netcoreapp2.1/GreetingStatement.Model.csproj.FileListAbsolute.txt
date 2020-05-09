@@ -1,0 +1,10 @@
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/MLModel.zip
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/GreetingStatement.Model.deps.json
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/GreetingStatement.Model.dll
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/bin/Debug/netcoreapp2.1/GreetingStatement.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.AssemblyInfoInputs.cache
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.AssemblyInfo.cs
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.dll
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.pdb
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.csprojAssemblyReference.cache
+/home/matt/Projects/KronusLogicProcessor/GreetingOrStatement/SampleBinaryClassification.Model/obj/Debug/netcoreapp2.1/GreetingStatement.Model.csproj.CoreCompileInputs.cache
